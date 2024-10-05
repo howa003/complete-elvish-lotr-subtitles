@@ -8,6 +8,7 @@ This repository contains subtitles for all 3 LotR movies.
 These subtitles are unique as they contain **transcriptions (the original language) and English translations of all dialogs in foreign languages** used in the movies - i.e., Sindarin, Quenya, Adûnaic, Rohirric, and Black Speech.
 The subtitles also contain transcriptions and translations of selected song lyrics.
 
+Though subtitles for all 3 movies are already available, **this is an ongoing project**. Some subtitles are still being revised and improved, see [Subtitle status](#subtitle-status).
 
 ## Subtitle versions
 
@@ -45,6 +46,21 @@ The lyrics are, thus, usually omitted if:
 *The Two Towers*: I have not included most of the song lyrics yet. For now, I have included only the lyrics of the funeral song sung by Éowyn. I future, I plan to add more lyrics, but I am not sure when.
 
 *Return of the King*: I have not included most of the song lyrics yet. For now, I have included only the lyrics of the coronation song sung by Aragorn. I future, I plan to add more lyrics, but I am not sure when.
+
+
+## Subtitle status
+
+#### Fellowship of the Ring
+
+The subtitles for FotR are 99 % complete. I might revise some minor details in the future, but otherwise they contain everything I want to contain in them.
+
+#### The Two Towers
+
+The subtitles for TTT are somewhat complete. All dialogs are (should be) completed, but I want to add more song lyrics when I have time.
+
+#### Return of thr King
+
+The subtitles for RotK are somewhat complete. All dialogs are (should be) completed, but I want to add more song lyrics when I have time.
 
 
 ## Resources
