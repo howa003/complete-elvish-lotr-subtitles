@@ -1,0 +1,856 @@
+1
+00:00:00,000 --> 00:00:04,999
+Subtitles (ver. 2024-10) created by <i>ZoowlCZ</i>.
+
+2
+00:00:05,000 --> 00:00:09,999
+Very special thanks to <i>Gwaith-i-Phethdain</i> and <i>Magpie of A Magpie's Nest and Friends</i>
+for their extraordinary work on deciphering the dialogs and lyrics.
+
+3
+00:00:10,000 --> 00:00:14,999
+Special thanks also to <i>TheGloriousLori</i> and <i>Monoverantus</i>.
+
+4
+00:00:15,023 --> 00:00:20,022
+{\an8} [Note] For correct displaying of these subtitles, use a media player
+supporting ASS tags in .srt files.
+
+5
+00:00:24,500 --> 00:00:36,300
+{\an8} [Sindarin] ♫ <i>Man ammen toltha i dann hen morn?</i> ♫
+{\an8} [English] ♫ Who brings to us this token of darkness? ♫
+
+6
+00:00:31,250 --> 00:00:34,250
+[Sindarin] <i>I amar prestar aen.</i>
+
+7
+00:00:36,400 --> 00:00:37,600
+[Sindarin] <i>Han mathon ne nen.</i>
+
+8
+00:00:37,000 --> 00:00:46,900
+{\an8} [Sindarin] ♫ <i>Si dannatha, nauva.</i> ♫
+{\an8} [English] ♫ Will now fall, will be. ♫
+
+9
+00:00:39,900 --> 00:00:41,500
+[Sindarin] <i>Han mathon ne chae.</i>
+
+10
+00:00:43,500 --> 00:00:46,000
+[Sindarin] <i>A han noston ned 'wilith.</i>
+
+11
+00:02:43,000 --> 00:02:47,300
+{\an8} [Adûnaic] ♫ <i>Nênâkham nêpâm...</i> ♫
+{\an8} [English] ♫ We approach, we grasp... ♫
+
+12
+00:02:48,401 --> 00:02:49,675
+{\an8} [Adûnaic] ♫ <i>...abâr-at...</i> ♫
+{\an8} [English] ♫ ...power and... ♫
+
+13
+00:02:49,200 --> 00:02:50,400
+[Sindarin] <i>Tangado haid!</i>
+[English] Hold positions!
+
+14
+00:02:50,799 --> 00:02:53,799
+{\an8} [Adûnaic] ♫ <i>...aglar.</i> ♫
+{\an8} [English] ♫ ...glory. ♫
+
+15
+00:02:51,800 --> 00:02:53,800
+[Sindarin] <i>Leithio i philinn!</i>
+[English] Release the arrows!
+
+16
+00:02:53,900 --> 00:02:57,900
+{\an8} [Adûnaic] ♫ <i>Nêtabdam dâurad.</i> ♫
+{\an8} [English] ♫ We cling to the darkness. ♫
+
+17
+00:03:00,000 --> 00:03:05,100
+{\an8} [Adûnaic] ♫ <i>Nidir nêpâm.</i> ♫
+{\an8} [English] ♫ The Nine, we grasp. ♫
+
+18
+00:03:05,100 --> 00:03:06,800
+{\an8} [Adûnaic] ♫ <i>Nêpâm nêd...</i> ♫
+{\an8} [English] ♫ We grasp for ourselves... ♫
+
+19
+00:03:06,835 --> 00:03:11,435
+{\an8} [Adûnaic] ♫ <i>...aglar.</i> ♫
+{\an8} [English] ♫ ...glory. ♫
+
+20
+00:03:27,100 --> 00:03:31,200
+{\an8} [Adûnaic] ♫ <i>Nênâkham nêpâm...</i> ♫
+{\an8} [English] ♫ We approach, we grasp... ♫
+
+21
+00:03:32,424 --> 00:03:33,824
+{\an8} [Adûnaic] ♫ <i>...abâr-at...</i> ♫
+{\an8} [English] ♫ ...power and... ♫
+
+22
+00:03:34,880 --> 00:03:38,780
+{\an8} [Adûnaic] ♫ <i>...aglar.</i> ♫
+{\an8} [English] ♫ ...glory. ♫
+
+23
+00:32:40,800 --> 00:32:49,700
+{\an8} [Adûnaic] ♫ <i>Nêbâbîtham Magânanê.</i> ♫
+{\an8} [English] ♫ We renounce our Creator. ♫
+
+24
+00:45:08,600 --> 00:45:17,100
+{\an8} [Sindarin] ♫ <i>Rîn athar annún-aearath ...</i> ♫
+{\an8} [English] ♫ O Queen beyond the Western Seas... ♫
+
+25
+00:45:18,000 --> 00:45:23,200
+{\an8} [Sindarin] ♫ <i>... calad ammen ...</i> ♫
+{\an8} [English] ♫ ... light to us ... ♫
+
+26
+00:45:23,201 --> 00:45:26,701
+{\an8} [Sindarin] ♫ <i>... i reniar ...</i> ♫
+{\an8} [English] ♫ ... who wander ... ♫
+
+27
+00:45:28,000 --> 00:45:36,000
+{\an8} [Sindarin] ♫ <i>... mi 'aladhremmin Ennorath.</i> ♫
+{\an8} [English] ♫ ... amid the tree-woven lands of Middle-earth. ♫
+
+28
+00:45:37,900 --> 00:45:46,900
+{\an8} [Sindarin] ♫ <i>A Elbereth Gilthoniel ...</i> ♫
+{\an8} [English] ♫ O Elbereth Star-kindler ... ♫
+
+29
+00:45:47,500 --> 00:45:57,000
+{\an8} [Sindarin] ♫ <i>... i chin a thûl lín míriel.</i> ♫
+{\an8} [English] ♫ ... your eyes and breath shining like jewels. ♫
+
+30
+01:03:36,580 --> 01:03:40,791
+{\an8} [Adûnaic] ♫ <i>Bârî'n Katha-râd...</i> ♫
+{\an8} [English] ♫ The Lords of the Eternal life... ♫
+
+31
+01:03:41,850 --> 01:03:47,250
+{\an8} [Adûnaic] ♫ <i>...îdô Nidir...</i> ♫
+{\an8} [English] ♫ ...now the Nine... ♫
+
+32
+01:03:47,574 --> 01:03:51,074
+{\an8} [Adûnaic] ♫ <i>...nênâ-kham, nêpâm...</i> ♫
+{\an8} [English] ♫ ...we come, we grasp... ♫
+
+33
+01:03:53,098 --> 01:03:57,098
+{\an8} [Adûnaic] ♫ <i>...abarat aglar.</i> ♫
+{\an8} [English] ♫ ...power and glory. ♫
+
+34
+01:07:51,170 --> 01:07:54,590
+{\an8} [Sindarin] ♫ <i> Tinúviel elvanui ... </i> ♫
+{\an8} [English] ♫ Tinúviel elven-fair ... ♫
+
+35
+01:07:55,740 --> 01:08:02,790
+{\an8} [Sindarin] ♫ <i> ... elleth alfirin edhelhael ... </i> ♫
+{\an8} [English] ♫ ... immortal maiden elven-wise ... ♫
+
+36
+01:08:04,410 --> 01:08:10,090
+{\an8} [Sindarin] ♫ <i> ... o hon ring finnil fuinui ... </i> ♫
+{\an8} [English] ♫ ... about him cast her night-dark hair ... ♫
+
+37
+01:08:11,630 --> 01:08:15,020
+{\an8} [Sindarin] ♫ <i> ... a renc gelebrin. </i> ♫
+{\an8} [English] ♫ ... and arms like silver. ♫
+
+38
+01:12:08,000 --> 01:12:12,000
+{\an8} [Adûnaic] ♫ <i>Bârî'n Katha-râd</i> ♫
+{\an8} [English] ♫ The Lords of the Eternal life ♫
+
+39
+01:12:13,000 --> 01:12:17,000
+{\an8} [Adûnaic] ♫ <i>Îdô Nidir Nê</i> ♫
+{\an8} [English] ♫ Now we Nine ♫
+
+40
+01:12:18,500 --> 01:12:24,800
+{\an8} [Adûnaic] ♫ <i>Nêbâ-bîtham</i> ♫
+{\an8} [English] ♫ We deny ♫
+
+41
+01:12:25,000 --> 01:12:30,000
+{\an8} [Adûnaic] ♫ <i>Dir Nê Nâkham</i> ♫
+{\an8} [English] ♫ We Nine approach ♫
+
+42
+01:12:31,000 --> 01:12:41,202
+{\an8} [Adûnaic] ♫ <i>Nêbâ-bîtham Ma-gâna-nanê</i> ♫
+{\an8} [English] ♫ We renounce our Creator ♫
+
+43
+01:12:42,000 --> 01:12:47,000
+{\an8} [Adûnaic] ♫ <i>Nêtab~ Dâur~</i> ♫
+{\an8} [English] ♫ We cling to the darkness ♫
+
+44
+01:12:49,031 --> 01:12:51,000
+[Black Speech] <i>Gûm-ishi...</i>
+[English] In the void...
+
+45
+01:12:53,000 --> 01:12:54,000
+[Black Speech] <i>...ashi...</i>
+[English] ...only...
+
+46
+01:13:13,500 --> 01:13:15,500
+[Black Speech] <i>...gurum!</i>
+[English] ...death!
+
+47
+01:15:53,000 --> 01:16:03,000
+{\an8} [Quenya] ♫ <i> I Cemen Nurrua ... </i> ♫
+{\an8} [English] ♫ The earth groans ... ♫
+
+48
+01:16:03,000 --> 01:16:09,000
+{\an8} [Quenya] ♫ <i> ... ar i súre... </i> ♫
+{\an8} [English] ♫ ... and the wind ... ♫
+
+49
+01:16:11,000 --> 01:16:17,500
+{\an8} [Quenya] ♫ <i> ... i sú-re ... </i> ♫
+{\an8} [English] ♫ ... the wind ... ♫
+
+50
+01:16:17,600 --> 01:16:20,200
+{\an8} [Quenya] ♫ <i> ... naina. </i> ♫
+{\an8} [English] ♫ ... is crying. ♫
+
+51
+01:16:20,000 --> 01:16:22,000
+... Gwaihir, go!
+
+52
+01:18:50,000 --> 01:19:13,500
+{\an8} [Sindarin] ♫ <i> Tinuviel elvanui ... </i> ♫
+{\an8} [English] ♫ Tinuviel the elven-fair ... ♫
+
+53
+01:19:13,690 --> 01:19:18,090
+[Sindarin] <i>Im Arwen, Telin le thaed.</i>
+[English] I Arwen, I come to help you.
+
+54
+01:19:19,340 --> 01:19:23,490
+[Sindarin] <i>Lasto beth nîn, tolo dan nan galad.</i>
+[English] Listen to my word, come back to the light.
+
+55
+01:19:13,501 --> 01:19:27,001
+{\an8} [Sindarin] ♫ <i> ... elleth alfirin. </i> ♫
+{\an8} [English] ♫ ... immortal maiden. ♫
+
+56
+01:19:55,040 --> 01:19:57,760
+[Sindarin] <i>Dartho guin Beriain. Rych le ad tolthathon.</i>
+[English] Stay with the Hobbits. I will send horses for you.
+
+57
+01:19:57,760 --> 01:20:00,240
+[Sindarin] <i>Hon mabathon! Rochon ellint im.</i>
+[English] I will take him! I am the swifter rider.
+
+58
+01:20:00,240 --> 01:20:01,730
+[Sindarin] <i>Andelu i ven.</i>
+[English] The road is too dangerous.
+
+59
+01:20:03,130 --> 01:20:05,670
+[Sindarin] <i>Frodo fîr. Ae athradon i hîr ...</i>
+[English] Frodo is dying. If I cross the river ...
+
+60
+01:20:05,670 --> 01:20:08,890
+[Sindarin] <i>... tûr gwaith nîn beriatha hon.</i>
+[English] ... the power of my people will protect him.
+
+61
+01:20:14,760 --> 01:20:15,720
+[Sindarin] <i>Be iest lîn.</i>
+[English] As you wish.
+
+62
+01:20:24,800 --> 01:20:26,990
+[Sindarin] <i>Noro lim Asfaloth, noro lim!</i>
+[English] Ride fast Asfaloth, ride fast!
+
+63
+01:21:37,000 --> 01:21:41,000
+{\an8} [Adûnaic] ♫ <i> Bârî 'n Katharâd... </i> ♫
+{\an8} [English] ♫ Lords of the eternal life... ♫
+
+64
+01:21:41,500 --> 01:21:47,300
+{\an8} [Adûnaic] ♫ <i> ...îdô kham nêpâm. </i> ♫
+{\an8} [English] ♫ ...now approaching we grasp. ♫
+
+65
+01:21:45,200 --> 01:21:47,000
+[Sindarin] <i>Noro lim Asfaloth!</i>
+[English] Ride fast Asfaloth!
+
+66
+01:21:47,500 --> 01:21:52,000
+{\an8} [Adûnaic] ♫ <i> Nênâkham, nêpâm... </i> ♫
+{\an8} [English] ♫ We approach, we grasp... ♫
+
+67
+01:21:52,500 --> 01:21:57,000
+{\an8} [Adûnaic] ♫ <i>...abarat aglar.</i> ♫
+{\an8} [English] ♫ ...power and glory. ♫
+
+68
+01:21:57,500 --> 01:22:02,000
+{\an8} [Adûnaic] ♫ <i> Nêpâm nêd aglar. </i> ♫
+{\an8} [English] ♫ We grasp for ourselves glory. ♫
+
+69
+01:22:02,500 --> 01:22:07,000
+{\an8} [Adûnaic] ♫ <i> Nidir, nêpâm. </i> ♫
+{\an8} [English] ♫ The Nine, we grasp. ♫
+
+70
+01:22:07,500 --> 01:22:15,000
+{\an8} [Adûnaic] ♫ <i> Nêpâm nêd aglar. </i> ♫
+{\an8} [English] ♫ We grasp for ourselves glory. ♫
+
+71
+01:22:48,000 --> 01:22:50,520
+[Sindarin] <i>Nîn o Chithaeglir, lasto beth daer!</i>
+[English] Waters of the Misty Mountains, listen to the great word!
+
+72
+01:22:50,530 --> 01:22:53,640
+[Sindarin] <i>Rimmo nîn Bruinen dan in Ulaer!</i>
+[English] Flow waters of Loudwater against the Ringwraiths!
+
+73
+01:22:53,640 --> 01:22:56,790
+[Sindarin] <i>Nîn o Chithaeglir, lasto beth daer!</i>
+[English] Waters of the Misty Mountains, listen to the great word!
+
+74
+01:22:56,790 --> 01:23:00,170
+[Sindarin] <i>Rimmo nîn Bruinen dan in Ulaer!</i>
+[English] Flow waters of Loudwater against the Ringwraiths!
+
+75
+01:23:27,500 --> 01:23:36,300
+{\an8} [English] ♫ What Grace... ♫
+
+76
+01:23:36,301 --> 01:23:47,301
+{\an8} [English] ♫ ...is given me... ♫
+
+77
+01:23:47,302 --> 01:23:57,102
+{\an8} [English] ♫ ...let it pass... ♫
+
+78
+01:23:57,103 --> 01:23:59,103
+{\an8} [English] ♫ ...to him. ♫
+
+79
+01:23:59,800 --> 01:24:12,600
+{\an8} [English] ♫ Let him be spared. Mighty Valar, save him.  ♫
+
+80
+01:24:05,500 --> 01:24:09,590
+[Sindarin] <i>Lasto beth nîn. Tolo dan nan galad.</i>
+[English] Hear my voice. Come back to the light.
+
+81
+01:35:46,200 --> 01:35:48,910
+[Sindarin] <i>A si i-Dhúath ú-orthor, Aragorn.</i>
+[English] The shadow does not hold sway yet, Aragorn.
+
+82
+01:35:49,900 --> 01:35:53,490
+[Sindarin] <i>Ú or le a ú or nin.</i>
+[English] Not over you, not over me.
+
+83
+01:36:04,650 --> 01:36:07,890
+[Sindarin] <i>Renich i lú i erui govannem?</i>
+[English] Do you remember when we first met?
+
+84
+01:36:11,380 --> 01:36:15,410
+[Sindarin] <i>Nauthannen i ned ôl reniannen.</i>
+[English] I thought I had strayed into a dream.
+
+85
+01:36:16,310 --> 01:36:18,990
+[Sindarin] <i>Gwenwin in enninath.</i>
+[English] Long years have passed.
+
+86
+01:36:20,030 --> 01:36:23,690
+[Sindarin] <i>Ú-'arnech in naeth i si celich.</i>
+[English] You did not wear the troubles you carry now.
+
+87
+01:36:25,530 --> 01:36:27,830
+[Sindarin] <i>Renich i beth i pennen?</i>
+[English] Do you remember what I told you?
+
+88
+01:38:54,770 --> 01:38:56,170
+(The Ring)
+[Black Speech] <i>Sherkuk-ishi</i>
+[English] In your blood
+
+89
+01:38:59,301 --> 01:39:03,070
+(Gandalf)
+[Black Speech] <i>Ash nazg durbatulûk...</i>
+[English] One ring to rule them all...
+
+90
+01:39:00,650 --> 01:39:03,350
+{\an8} (The Ring)
+{\an8} [Black Speech] <i>Shre nazg golugranu kilmi-nudu...</i>
+{\an8} [English] Three Rings for the Elven-kings under the sky...
+
+91
+01:39:03,070 --> 01:39:06,780
+(Gandalf)
+[Black Speech] <i>...Ash nazg gimbatul...</i>
+[English] ...One ring to find them...
+
+92
+01:39:06,604 --> 01:39:10,866
+{\an8} (The Ring)
+{\an8} [Black Speech] <i>Ombi kuzd-durbagu... shirku</i>
+{\an8} [English] Seven for the Dwarf-lords... blood
+
+93
+01:39:06,990 --> 01:39:10,160
+(Gandalf)
+[Black Speech] <i>...Ash nazg thrakatulûk...</i>
+[English] ...One ring to bring them all...
+
+94
+01:39:11,184 --> 01:39:14,646
+{\an8} (The Ring)
+{\an8} [Black Speech] <i>Ash Burz-Durbagu burzum-ishi...</i>
+{\an8} [English] One for the Dark lord on his dark throne...
+
+95
+01:39:13,070 --> 01:39:17,390
+(Gandalf)
+[Black Speech] <i>...Agh burzum-ishi krimpatul.</i>
+[English] ...and in the darkness bind them.
+
+96
+01:40:44,520 --> 01:40:46,420
+[Sindarin] <i>Havo dad, Legolas.</i>
+[English] Sit down, Legolas.
+
+97
+01:41:26,690 --> 01:41:31,802
+[Black Speech] <i>Daghburz-ishi makha, ghurarmu shirku.</i>
+[English] In the land of Mordor, a sacrifice of blood.
+
+98
+01:41:57,445 --> 01:42:00,480
+[Black Speech] <i>Makha gulshu darulu.</i>
+[English] Where the Shadows lie.
+
+99
+01:43:14,090 --> 01:43:16,870
+[Black Speech] <i>Ash nazg durbatulûk...</i>
+[English] One ring to rule them all...
+
+100
+01:43:16,870 --> 01:43:19,380
+[Black Speech] <i>...Ash nazg gimbatul.</i>
+[English] ...One ring to find them.
+
+101
+01:43:19,390 --> 01:43:21,480
+[Black Speech] <i>Ash nazg durbatulûk...</i>
+[English] One ring to rule them all...
+
+102
+01:43:21,490 --> 01:43:23,590
+[Black Speech] <i>...Ash nazg gimbatul.</i>
+[English] ...One ring to find them.
+
+103
+01:43:23,590 --> 01:43:25,580
+[Black Speech] <i>Ash nazg durbatulûk...</i>
+[English] One ring to rule them all...
+
+104
+01:43:25,590 --> 01:43:27,790
+[Black Speech] <i>...Ash nazg gimbatul.</i>
+[English] ...One ring to find them.
+
+105
+01:43:27,790 --> 01:43:29,690
+[Black Speech] <i>Ash nazg durbatulûk...</i>
+[English] One ring to rule them all...
+
+106
+01:45:49,600 --> 01:46:02,600
+{\an8} [Sindarin] ♫ <i>Estel, le iôn adar lín...</i> ♫
+{\an8} [English] ♫ Hope, you are your father’s son... ♫
+
+107
+01:46:02,900 --> 01:46:12,500
+{\an8} [Sindarin] ♫ <i>... û iôn naneth lín.</i> ♫
+{\an8} [English] ♫ ... not your mother’s child. ♫
+
+108
+01:46:12,970 --> 01:46:15,514
+[Sindarin] <i>Anirne hene beriad i chên lîn.</i>
+[English] She wanted to protect her child.
+
+109
+01:46:17,433 --> 01:46:21,228
+[Sindarin] <i>Ned Imladris nauthant e le beriathar aen.</i>
+[English] She thought in Rivendell you would be safe.
+
+110
+01:53:30,000 --> 01:53:45,000
+I tuo, i macil
+staldoron mauri
+
+111
+01:55:07,403 --> 01:55:11,572
+[Quenya] <i>Cuiva nwalca Carnirassë!</i>
+[English] Wake up cruel Redhorn!
+
+112
+01:55:35,600 --> 01:55:39,380
+[Sindarin] <i>Losto Caradhras, Sedho! Hodo!</i>
+[English] Sleep Redhorn, Be still! Lie Still!
+
+113
+01:55:39,900 --> 01:55:41,450
+[Sindarin] <i>Nuitho i 'Ruith!</i>
+[English] Hold your Wrath!
+
+114
+01:55:41,900 --> 01:55:46,930
+[Quenya] <i>Cuiva nwalca Carnirassë!</i>
+[English] Wake up cruel Redhorn!
+
+115
+01:55:47,600 --> 01:55:50,260
+[Quenya] <i>Nai yarvaxëa rasselya...</i>
+[English] May your bloodstained horn...
+
+116
+01:55:51,100 --> 01:55:54,400
+[Quenya] <i>...taltuva ñotto-carinnar!</i>
+[English] ...fall upon enemy heads!
+
+117
+01:59:48,076 --> 01:59:52,738
+[Sindarin] <i>Annon Edhellen edro hi ammen!</i>
+[English] Gate of the elves, open now for me!
+
+118
+02:00:00,660 --> 02:00:07,060
+[Sindarin] <i>Fennas Nogothrim, lasto beth lammen.</i>
+[English] Doorway of the Dwarf-folk, listen to the word of my tongue.
+
+119
+02:00:43,100 --> 02:00:45,300
+[Quenya] <i>Ando Eldarinwa...</i>
+[English] Gate of elves...
+
+120
+02:00:46,800 --> 02:00:48,800
+[Quenya] <i>...a lasta quettanya...</i>
+[English] ...listen to my word...
+
+121
+02:00:49,600 --> 02:00:51,900
+[Quenya] <i>...fenda casarinwa!</i>
+[English] ...threshold of dwarves!
+
+122
+02:01:44,234 --> 02:01:45,527
+[Sindarin] Mellon.
+[English] Friend.
+
+123
+02:29:48,223 --> 02:29:59,192
+{\an8} [Sindarin] ♫ <i>Man ammen toltha i dann hen morn?</i> ♫
+{\an8} [English] ♫ Who brings to us this token of darkness? ♫
+
+124
+02:29:59,868 --> 02:30:09,602
+{\an8} [Sindarin] ♫ <i>Si dannatha, nauva.</i> ♫
+{\an8} [English] ♫ Will now fall, will be. ♫
+
+125
+02:30:11,404 --> 02:30:20,421
+{\an8} [Quenya] ♫ <i>Mel~ Melma nóren sina...</i> ♫
+{\an8} [English] ♫ Love for this land... ♫
+
+126
+02:30:21,639 --> 02:30:30,657
+{\an8} [Quenya] ♫ <i>...núra ala eäro núr.</i> ♫
+{\an8} [English] ♫ ...greater than sea deeps. ♫
+
+127
+02:31:13,536 --> 02:31:16,838
+[Sindarin] <i>Mae govannen, Legolas Thranduilion.</i>
+[English] Welcome, Legolas son of Thranduil.
+
+128
+02:31:17,213 --> 02:31:20,341
+[Sindarin] <i>Govannas vîn gwennen le, Haldir o Lórien.</i>
+[English] Our fellowship stands in your debt, Haldir of Lórien.
+
+129
+02:31:22,600 --> 02:31:24,699
+[Sindarin] <i>A Aragorn in Dúnedain...</i>
+[English] Oh, Aragorn of the Dúnedain...
+
+130
+02:31:25,000 --> 02:31:26,800
+[Sindarin] <i>...istannen le ammen.</i>
+[English] ...you are known to us.
+
+131
+02:32:08,500 --> 02:32:11,270
+[Sindarin] <i>Boe ammen veriad lîn. Andelu i ven!</i>
+[English] We need your protection. The road is too dangerous!
+
+132
+02:32:14,300 --> 02:32:15,700
+[Sindarin] <i>Merin le telim.</i>
+[English] I wish we may come with you.
+
+133
+02:32:16,900 --> 02:32:18,600
+[Sindarin] <i>Boe ammen i dulu lîn!</i>
+[English] We need your support!
+
+134
+02:32:33,000 --> 02:32:34,600
+[Sindarin] <i>Merin le telim.</i>
+[English] I wish we may come with you.
+
+135
+02:32:37,340 --> 02:32:38,940
+[Sindarin] <i>Andelu i ven!</i>
+[English] The road is too dangerous!
+
+136
+02:33:22,871 --> 02:33:34,071
+{\an8} [Quenya] ♫ <i>Ela i cá</i> ♫
+{\an8} [English] ♫ Behold the light! ♫
+
+137
+02:33:34,300 --> 02:33:45,700
+{\an8} [Quenya] ♫ <i>Nenya sina...</i> ♫
+{\an8} [English] ♫ Nenya is this... ♫
+
+138
+02:33:45,720 --> 02:34:02,220
+{\an8} [Quenya] ♫ <i>...corma úhátima...</i> ♫
+{\an8} [English] ♫ ...ring unbreakable... ♫
+
+139
+02:34:02,300 --> 02:34:17,000
+{\an8} [Quenya] ♫ <i>...i haryanye.</i> ♫
+{\an8} [English] ♫ ...that I possess. ♫
+
+140
+02:37:11,200 --> 02:37:15,600
+{\an8} [Sindarin] ♫ <i> In gwidh ristennin... </i> ♫
+{\an8} [English] ♫ The bonds cut... ♫
+
+141
+02:37:15,600 --> 02:37:22,000
+{\an8} [Quenya] ♫ <i> Ilfirin nairelma. </i> ♫
+{\an8} [English] ♫ Undying is our lament. ♫
+
+142
+02:37:22,001 --> 02:37:30,701
+{\an8} [Sindarin] ♫ <i> ...i fae narchannen. </i> ♫
+{\an8} [English] ♫ ...the spirit broken. ♫
+
+143
+02:37:30,702 --> 02:37:34,006
+{\an8} [Quenya] ♫ <i> Nauva i nauva. </i> ♫
+{\an8} [English] ♫ Will be what will be. ♫
+
+144
+02:37:34,007 --> 02:37:42,195
+{\an8} [Sindarin] ♫ <i> I Lach Anor ed...  </i> ♫
+{\an8} [English] ♫ The Flame of Anor out... ♫
+
+145
+02:37:42,195 --> 02:37:50,212
+{\an8} [Quenya] ♫ <i> Ilfirin nairelma... </i> ♫
+{\an8} [English] ♫ Undying is our lament... ♫
+
+146
+02:37:50,212 --> 02:37:54,916
+{\an8} [Sindarin] ♫ <i> ...ardhon gwannen.  </i> ♫
+{\an8} [English] ♫ ...left this world. ♫
+
+147
+02:37:54,916 --> 02:37:58,954
+{\an8} [Quenya] ♫ <i> ...ar ullume nucuvalme. </i> ♫
+{\an8} [English] ♫ ...yet we will cast all away. ♫
+
+148
+02:37:58,955 --> 02:38:11,733
+{\an8} [Sindarin] ♫ <i> Mithrandir, o Randir Vithren... </i> ♫
+{\an8} [English] ♫ Mithrandir, o Pilgrim Grey... ♫
+
+149
+02:38:11,757 --> 02:38:19,524
+{\an8} [Sindarin] ♫ <i> ...ú-reniathach... </i> ♫
+{\an8} [English] ♫ ...you will not journey... ♫
+
+150
+02:38:19,525 --> 02:38:23,820
+{\an8} [Quenya] ♫ <i> Nauva i nauva. </i> ♫
+{\an8} [English] ♫ Will be what will be. ♫
+
+151
+02:38:23,820 --> 02:38:29,743
+{\an8} [Sindarin] ♫ <i> ...i amar galen. </i> ♫
+{\an8} [English] ♫ ...the world green. ♫
+
+152
+02:38:29,743 --> 02:38:36,350
+{\an8} [Quenya] ♫ <i> Melme nóren sina... </i> ♫
+{\an8} [English] ♫ Love for this land... ♫
+
+153
+02:38:36,351 --> 02:38:49,471
+{\an8} [Sindarin] ♫ <i> I reniad lín ne môr nuithannen. </i> ♫
+{\an8} [English] ♫ The journey of you in darkness stopped. ♫
+
+154
+02:38:49,471 --> 02:38:56,770
+{\an8} [Quenya] ♫ <i> Ilfirin nairelma... </i> ♫
+{\an8} [English] ♫ Undying is our lament... ♫
+
+155
+02:38:56,770 --> 02:39:04,770
+{\an8} [Quenya] ♫ <i> ...ar ullume nucuvalme. </i> ♫
+{\an8} [English] ♫ ...yet we will cast all away. ♫
+
+156
+02:47:37,466 --> 02:47:51,387
+{\an8} [Quenya] ♫ <i> Ai! Laurië lantar lassi súrinen. </i> ♫
+{\an8} [English] ♫ Alas! Like gold fall leaves in the wind. ♫
+
+157
+02:48:54,820 --> 02:48:56,964
+[Sindarin] <i>Le aphadar aen.</i>
+[English] You are being tracked.
+
+158
+02:50:49,293 --> 02:50:50,336
+[Sindarin] <i>Am meleth dîn...</i>
+[English] For her love...
+
+159
+02:50:51,612 --> 02:50:56,867
+[Sindarin] <i>...I ant e guil Arwen Undómiel pígatha.</i>
+[English] ...the gift of life of Arwen will fade.
+
+160
+02:50:58,018 --> 02:50:59,855
+[Sindarin] <i>Aníron i e broniatha...</i>
+[English] I wish that she endures...
+
+161
+02:51:00,581 --> 02:51:04,901
+[Sindarin] <i>...Ad ae periatham athar i methid en-amar hen.</i>
+[English] ...even if we separate beyond the limits of this world.
+
+162
+02:51:07,603 --> 02:51:13,616
+[Sindarin] <i>Aníron i e círatha na Valinor.</i>
+[English] I wish that she sails to Valinor.
+
+163
+02:51:38,375 --> 02:51:39,410
+[Quenya] <i>Namárië.</i>
+[English] Farewell.
+
+164
+02:51:43,689 --> 02:51:46,567
+[Sindarin] <i>Nadath nâ i moe cerich...</i>
+[English] There is much you have yet to do...
+
+165
+02:51:49,074 --> 02:51:50,367
+[Sindarin] <i>...dan...</i>
+[English] ...but...
+
+166
+02:51:53,350 --> 02:51:56,510
+[Sindarin] <i>...ú-'eveditham, Elessar.</i>
+[English] ...we shall not meet again, Elessar.
+
+167
+02:56:43,543 --> 02:57:00,335
+{\an8} [Quenya] ♫ <i> Et Eärello, Endorenna utúlien. </i> ♫
+{\an8} [English] ♫ Out of the Great Sea, to Middle-earth I am come. ♫
+
+168
+02:57:00,336 --> 02:57:10,612
+{\an8} [Quenya] ♫ <i> Sinome, maruvan, ar hildinyar. </i> ♫
+{\an8} [English] ♫ In this place, I will abide, and my heirs. ♫
+
+169
+03:02:33,475 --> 03:02:35,475
+[Black Speech] Akha...
+[English] Here...
+
+170
+03:02:36,800 --> 03:02:38,600
+[Black Speech] ...ashi...
+[English] ...only...
+
+171
+03:02:38,661 --> 03:02:40,161
+[Black Speech] ...gurum!
+[English] ...death!
+
+172
+03:03:13,875 --> 03:03:18,938
+{\an8} [Quenya] ♫ <i> I tuo, i macil. </i> ♫
+{\an8} [English] ♫ The strength, The weapon. ♫
+
