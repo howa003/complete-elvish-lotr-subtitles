@@ -3,7 +3,7 @@ Complete subtitles for the Lord of the Rings movies with transcription and trans
 
 
 
-## 0) Tip jar
+## 0) Donations
 Please know that you enjoying the movies with my subtitles is already a treat enough for me. 
 However, if you wanted to help me battle my ADHD and give me some external motivation to finish the subtitles to 100 % quality, you can [buy me a coffee <3](https://ko-fi.com/zoowlcz)
 
