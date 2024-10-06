@@ -1,6 +1,6 @@
 1
 00:00:00,000 --> 00:00:05,000
-Subtitles (ver. 2024-09) created by <i>ZoowlCZ</i>.
+Subtitles (ver. 2024-10) created by <i>ZoowlCZ</i>.
 
 2
 00:00:05,001 --> 00:00:10,000
@@ -103,7 +103,7 @@ supporting ASS tags in .srt files.
 [English] A battle is stirred up, they heard.
 
 22
-01:31:37,500 --> 01:31:40,000
+01:31:37,500 --> 01:31:39,077
 [Rohirric] <i>Hwæt nemnað ðe?</i>
 [English] What is your name?
 
@@ -123,12 +123,12 @@ supporting ASS tags in .srt files.
 [English] What did you see?
 
 26
-01:50:14,024 --> 01:50:28,747
+01:50:07,024 --> 01:50:21,747
 {\an8} [Sindarin] ♫<i> Ú i vethed... </i>♫
 ♫ [English]  ♫ Not the end... ♫
 
 27
-01:50:29,156 --> 01:50:44,304
+01:50:22,156 --> 01:50:37,304
 {\an8} [Sindarin] ♫<i> ...nâ i onnad. </i>♫
 ♫ [English]  ♫ ...it is the beginning. ♫
 
