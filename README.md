@@ -93,7 +93,7 @@ The subtitles for RotK are somewhat complete. All dialogs are (should be) comple
 
 ## 2) Reddit threads
 For each of the subtitles for each of the movie, there is a reddit thread where you can ask for additional info, request retiming to different release, or just show for love:
-- [Fellowship of the Ring Edit](https://www.reddit.com/r/lotr/comments/183m2v2/complete_english_and_elvish_subtitles_for/),
+- [Fellowship of the Ring](https://www.reddit.com/r/lotr/comments/183m2v2/complete_english_and_elvish_subtitles_for/),
 - [The Two Towers](https://www.reddit.com/r/lotr/comments/187h0j2/dialogonly_english_and_elvish_subtitles_for_the/),
 - [Return of the King](https://www.reddit.com/r/lotr/comments/1fx28nk/english_and_elvish_subtitles_for_return_of_the/).
 
