@@ -3,12 +3,6 @@ Complete subtitles for the Lord of the Rings movies with transcription and trans
 
 
 
-## 0) Donations
-Please know that you enjoying the movies with my subtitles is already a treat enough for me. 
-However, if you wanted to help me battle my ADHD and give me some external motivation to finish the subtitles to 100 % quality, you can [buy me a coffee <3](https://ko-fi.com/zoowlcz)
-
-
-
 ## 1) About the subtitles
 
 ### 1.1) General information
@@ -100,18 +94,33 @@ For each of the subtitles for each of the movie, there is a reddit thread where 
 
 
 
-## 3) Useful tools for your own modifications
+## 3) Subtitle Edit - A useful tool for your own modifications
 
-If you want to **merge** my foreign-only subtitles with your own English/other subtitles, I recommend the [subtitletools/Merge Subtitles](https://subtitletools.com/merge-subtitles-online) tool.
+If you want to modify the subtitles yourself, I recommend the [Subtitle Edit](https://www.nikse.dk/subtitleedit) tool.
 
-If you want to **retime** my subtitles, I recommend the [Subtitle Edit](https://www.nikse.dk/subtitleedit) tool.
+### 3.1) Merge Foreign-only subtitles with your own English/other subtitles
 
+In Subtitle Edit:
+- Tools - Join subtitles...
+- Add both files
+- Tools - Sort by - Start time
+- Tools - Renumber
 
+### 3.2) Retime the subtitles
 
+In Subtitle Edit:
+- Synchronization - Adjust all times (show earlie/later)...
 
 
 
 ## 4) Why this project?
 
 I wanted to watch LotR and understand all that is said and sung, but I have not found any complete subtitles. So I have created them myself, and I share them with you so you can enjoy them too :) If you find any mistakes please let me know and I will edit the subtitles.
+
+
+## 5) Donations
+Please know that you enjoying the movies with my subtitles is already a treat enough for me. 
+However, if you wanted to help me battle my ADHD and give me some external motivation to finish the subtitles to 100 % quality, you can [buy me a coffee <3](https://ko-fi.com/zoowlcz)
+
+
 
