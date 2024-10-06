@@ -17,7 +17,7 @@ This repository contains subtitles for all 3 LotR movies.
 These subtitles are unique as they contain **transcriptions (the original language) and English translations of all dialogs in foreign languages** used in the movies - i.e., Sindarin, Quenya, Adûnaic, Rohirric, and Black Speech.
 The subtitles also contain transcriptions and translations of selected song lyrics.
 
-Though subtitles for all 3 movies are already available, **this is an ongoing project**. Some subtitles are still being revised and improved, see [Subtitle status](#current-subtitle-status).
+Though subtitles for all 3 movies are already available, **this is an ongoing project**. Some subtitles are still being revised and improved, see [Current subtitle status](#17-current-subtitle-status).
 
 
 ### 1.2) Subtitle versions
