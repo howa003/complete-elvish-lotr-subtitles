@@ -19,6 +19,7 @@ Though subtitles for all 3 movies are already available, **this is an ongoing pr
 For each movie, two types of subtitles are available:
 - **Foreign-only**: Subtitles containing only the transcriptions and translations of foreign languages.
 - **Full**: Subtitles containing all English dialogs as well as the the transcriptions and translations of foreign languages.
+- **English-only**: Subtitles containing only the English dialogs (this is the source file for the Full version).
 
 
 ### 1.3) Movie releases
