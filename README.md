@@ -63,11 +63,20 @@ The lyrics are, thus, usually omitted if:
 ## 1.6) Resources
 
 My main sources for the transcriptions and translations were:
-- Existing subtitles with some non-english dialogs:
-  - Funksw's subtitles,
-  - LeithioiPhilinn's subtitles,
-- [Gwaith-i-Phethdain website](https://www.elvish.org/gwaith/),
-- [AMagpiesNest website](https://web.archive.org/web/20200224164910/http://www.amagpiesnest.com/main.htm).
+- [A Magpie's Nest](https://web.archive.org/web/20200224164910/http://www.amagpiesnest.com/main.htm) is a website about LOTR soundtrack analysis. I has LOT of song lyrics - both full song lyrics as well as verses indetified in the individual scenes in the movies. I found it 99 % correct, and this was my primary resource for song lyrics.
+- [Gwaith-i-Phethdain](https://www.elvish.org/gwaith/) is a website devoted to the languages of Middle-earth. It has some (not all) movie dialogs and lyrics. Very helpful is that the website contains not only transcriptions/translations of the dialogs/lyrics but also a detailed dictionary-like translations of the individual words. I found it 99 % correct, and this was my primary resource for dialogs.
+- [LotR Score Analysis by Monoverantus](https://www.youtube.com/channel/UCbyg3ujMxvifnRRHFrlCvmg) is a series of video about the LotR Score. These video contain the scenes of the movie with the analysis of the music used in these scenes. These video als ocontain the lyrics used in the individual scenes. These videos were very helful when trying to time some hard-to-hear lyrics to the correct timestamps. However, a few lyrics shown in the videos are incorrect - sometimes entirely incorrect, sometimes some-what correct (i.e., the video shows the whole verse but in the movie, the verse is sung only partially). 
+- Various other resources such as:
+  - [The Lord of the Rings - Linguistic Soundtrack Textbook](https://www.scribd.com/document/541086431/THE-LORD-OF-THE-RINGS-LINGUISTIC-SOUNDTRACK-TEXTBOOK),
+  - [The Lord of the Rings - The Fellowship of the Ring The Complete Recordings - Transcribed for piano / short score](https://alcaeru.weebly.com/uploads/7/8/6/0/786082/fotr_complete_transcription.pdf),
+  - [ElfDict](https://www.elfdict.com/w/),
+  - various fan website. 
+- I first started my work by extending and correcting existing subtitles with some foreign dialogs:
+  - [Funksw's subtitles](https://subscene.com/u/843529),
+  - [LeithioiPhilinn's subtitles](https://subscene.com/u/1418112).
+- In few cases, I have identified the lyrics using my own hearing and knowledge of songs used in the movies.
+
+
 
 
 ## 1.7) Current subtitle status
