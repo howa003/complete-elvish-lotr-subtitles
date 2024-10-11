@@ -26,7 +26,7 @@ For each movie, two types of subtitles are available:
 
 All subtitles are created for the Blu-ray releases of the extended editions and should be compatible with any releases with the same runtime lengths.
 
-**If you want subtitles retimed for a different release, let me know** here on GitHub or in the comments of the appropriate [Reddit thread](#reddit-threads).
+**If you want subtitles retimed for a different release, let me know** here on GitHub or in the comments of the appropriate [Reddit thread](#2-reddit-threads).
 
 
 ### 1.4) About dialogs
