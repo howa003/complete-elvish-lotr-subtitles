@@ -1,5 +1,5 @@
 # Complete subtitles for the Lord of the Rings movies
-Complete subtitles for the Lord of the Rings movies with transcription and translation of **all foreign (Elvish, Black Speech, Rohirric, etc.) dialogs** and selected song lyrics.
+Complete subtitles for the Lord of the Rings movies with transcription and translation of **all foreign (Elvish, Black Speech, Rohirric, etc.) **dialogs and selected song lyrics.
 
 
 
