@@ -81,15 +81,15 @@ My main sources for the transcriptions and translations were:
 
 ## 1.7) Current subtitle status
 
-#### 1.7.1) Fellowship of the Ring
+#### 1.7.1) Fellowship of the Ring (99%)
 
 The subtitles for FotR are 99 % complete. I might revise some minor details in the future, but otherwise they contain everything I want to contain in them.
 
-#### 1.7.2) The Two Towers
+#### 1.7.2) The Two Towers (~70%)
 
 The subtitles for TTT are somewhat complete. All dialogs are (should be) completed, but I want to add more song lyrics when I have time.
 
-#### 1.7.3) Return of the King
+#### 1.7.3) Return of the King (~70%)
 
 The subtitles for RotK are somewhat complete. All dialogs are (should be) completed, but I want to add more song lyrics when I have time.
 
