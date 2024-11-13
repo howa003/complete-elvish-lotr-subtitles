@@ -22,136 +22,176 @@ supporting ASS tags in .srt files.
 [English] Be-thou Aragorn well!
 
 6
+00:37:37,130 --> 00:37:48,967
+{\an8} [Sindarin] ♫<i> Ngîl cennin firiel vi...</i> ♫
+{\an8} [English] ♫ Star I saw rise high in... ♫
+
+7
+00:37:48,967 --> 00:37:57,233
+{\an8} [Sindarin] ♫<i> ...menel aduial. </i> ♫
+{\an8} [English] ♫ ...sky of evening. ♫
+
+8
+00:37:57,233 --> 00:38:00,538
+{\an8} [Sindarin] ♫<i> Glingant sui mîr... </i> ♫
+{\an8} [English] ♫ It hung like jewel... ♫
+
+9
+00:38:00,562 --> 00:38:07,835
+{\an8} [Sindarin] ♫<i> ...síliel mae.</i> ♫
+{\an8} [English] ♫ ...shining softly. ♫
+
+10
+00:38:08,659 --> 00:38:20,232
+{\an8} [Sindarin] ♫<i> Ngîl cennin firiel vi...</i> ♫
+{\an8} [English] ♫ Star I saw fading  in... ♫
+
+11
+00:38:20,364 --> 00:38:29,057
+{\an8} [Sindarin] ♫<i> ...menel aduial. </i> ♫
+{\an8} [English] ♫ ...sky of evening. ♫
+
+12
+00:38:29,057 --> 00:38:36,698
+{\an8} [Sindarin] ♫<i> Dúr i fuin. </i> ♫
+{\an8} [English] ♫ Dark the darkness. ♫
+
+13
+00:38:36,798 --> 00:38:46,449
+{\an8} [Sindarin] ♫<i> Naenol mae. </i> ♫
+{\an8} [English] ♫ Yearning softly. ♫
+
+14
 00:40:35,700 --> 00:40:36,700
 [Sindarin] <i>Ada.</i>
 [English] Father.
 
-7
+15
 00:41:24,000 --> 00:41:25,000
 [Sindarin] <i>Ada...</i>
 [English] Father...
 
-8
+16
 01:42:33,171 --> 01:42:35,557
 [Sindarin] <i>Ónen i-Estel Edain.</i>
 [English] I gave hope to Men.
 
-9
+17
 01:42:39,303 --> 01:42:40,403
 [Sindarin] <i>Ú-chebin...</i>
 [English] I have kept...
 
-10
+18
 01:42:41,989 --> 01:42:43,204
 [Sindarin] <i>...Estel anim.</i>
 [English] ...no hope for me.
 
-11
+19
 01:50:51,200 --> 01:50:52,800
-[Black Speech] <i> Katmuda! </i> 
+[Black Speech] <i> Katmuda! </i>
 [English]  Death to men!
 
-12
+20
 01:50:54,324 --> 01:50:55,624
-[Black Speech] <i> Katmuda! </i> 
+[Black Speech] <i> Katmuda! </i>
 [English]  Death to men!
 
-13
+21
 01:50:55,625 --> 01:50:56,225
-[Black Speech] <i> Gorosh! </i> 
+[Black Speech] <i> Gorosh! </i>
 [English]  Louder!
 
-14
+22
 01:50:56,226 --> 01:50:57,526
-[Black Speech] <i> Katmuda! </i> 
+[Black Speech] <i> Katmuda! </i>
 [English]  Death to men!
 
-15
+23
 01:50:57,527 --> 01:50:58,027
-[Black Speech] <i> Gorosh! </i> 
+[Black Speech] <i> Gorosh! </i>
 [English]  Louder!
 
-16
+24
 01:50:58,028 --> 01:50:59,328
-[Black Speech] <i> Katmuda! </i> 
+[Black Speech] <i> Katmuda! </i>
 [English]  Death to men!
 
-17
+25
 01:50:59,329 --> 01:51:00,829
-[Black Speech] <i> Gorosh chadar! </i> 
+[Black Speech] <i> Gorosh chadar! </i>
 [English]  Loud enough!
 
-18
+26
 02:12:44,055 --> 02:12:47,600
 [Quenya] <i>Aiya Eärendil, Elenion Ancalima!</i>
 [English] Hail Eärendil, Brightest of the Stars!
 
-19
+27
 03:15:36,400 --> 03:15:38,400
-[Black Speech] <i> Kelkum-ishi. </i> 
+[Black Speech] <i> Kelkum-ishi. </i>
 [English]  In the coldness.
 
-20
+28
 03:19:45,000 --> 03:19:47,000
-[Black Speech] <i> Ash nazg durb! </i> 
+[Black Speech] <i> Ash nazg durb! </i>
 [English]  One Ring to rule!
 
-21
+29
 03:19:56,200 --> 03:19:58,200
-[Black Speech] <i> Ash nazg durb! </i> 
+[Black Speech] <i> Ash nazg durb! </i>
 [English]  One Ring to rule!
 
-22
+30
 03:20:30,324 --> 03:20:32,324
-[Black Speech] <i> Ash nazg durb! </i> 
+[Black Speech] <i> Ash nazg durb! </i>
 [English]  One Ring to rule!
 
-23
+31
 03:44:15,900 --> 03:44:19,400
 [Quenya] ♫<i> Et Eärello...</i> ♫
 [English] ♫ Out of the Great Sea... ♫
 
-24
+32
 03:44:20,200 --> 03:44:26,600
 [Quenya] ♫<i> ...Endorenna utúlien. </i>♫
 [English] ♫ ...to Middle-earth I am come. ♫
 
-25
+33
 03:44:28,900 --> 03:44:32,700
 [Quenya] ♫<i> Sinome maruvan... </i>♫
 [English] ♫ In this place I will abide... ♫
 
-26
+34
 03:44:33,600 --> 03:44:39,100
 [Quenya] ♫<i> ...ar Hildinyar... </i>♫
 [English] ♫ ...and my heirs... ♫
 
-27
+35
 03:44:40,200 --> 03:44:48,700
 [Quenya] ♫<i> ...tenn’ Ambar-metta. </i>♫
 [English] ♫ ...unto the World-ending. ♫
 
-28
+36
 03:44:58,100 --> 03:44:59,600
 [Sindarin] <i>Hannon le.</i>
 [English] Thank you.
 
-29
+37
 03:45:10,779 --> 03:45:25,485
 {\an8} [Sindarin] ♫<i> Tinúviel... </i>♫
 {\an8} [English] ♫ Tinúviel... ♫
 
-30
+38
 03:45:25,485 --> 03:45:35,881
 {\an8} [Sindarin] ♫<i> ...elvanui... </i>♫
 {\an8} [English] ♫ ...the elven-fair... ♫
 
-31
+39
 03:45:35,889 --> 03:45:54,400
 {\an8} [Sindarin] ♫<i> ...elleth alfirin edhelhael. </i>♫
 {\an8} [English] ♫ ...immortal maiden elven-wise. ♫
 
-32
+40
 03:54:16,800 --> 03:54:19,800
 [Sindarin] <i>I Aear cân ven na mar.</i>
 [English] The sea calls us to home.
