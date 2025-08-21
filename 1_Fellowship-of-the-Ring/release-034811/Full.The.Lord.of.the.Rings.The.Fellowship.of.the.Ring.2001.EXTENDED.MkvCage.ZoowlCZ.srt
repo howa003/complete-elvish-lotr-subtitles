@@ -6592,7 +6592,7 @@ Tonight, you will sleep....
 1528
 02:37:15,600 --> 02:37:22,000
 {\an8} [Quenya solo] ♫ <i> Ilfirin nairelma. </i> ♫
-{\an8} [English] ♫ Undying is our lament. ♫
+{\an8} [English] ♫ Undying is our regret. ♫
 
 1529
 02:37:22,001 --> 02:37:30,701
@@ -6606,7 +6606,7 @@ A lament for Gandalf.
 1531
 02:37:30,702 --> 02:37:34,006
 {\an8} [Quenya solo] ♫ <i> Nauva i nauva. </i> ♫
-{\an8} [English] ♫ Will be what will be. ♫
+{\an8} [English] ♫ What should be shall be. ♫
 
 1532
 02:37:34,007 --> 02:37:42,195
@@ -6628,7 +6628,7 @@ For me, the grief is still too near.
 1536
 02:37:42,195 --> 02:37:50,212
 {\an8} [Quenya solo] ♫ <i> Ilfirin nairelma... </i> ♫
-{\an8} [English] ♫ Undying is our lament... ♫
+{\an8} [English] ♫ Undying is our regret... ♫
 
 1537
 02:37:46,890 --> 02:37:49,690
@@ -6654,7 +6654,7 @@ The finest rockets ever seen
 
 1542
 02:37:58,955 --> 02:38:11,733
-{\an8} [Sindarin chorus] ♫ <i> Mithrandir, o Randir Vithren... </i> ♫
+{\an8} [Sindarin chorus] ♫ <i> Mithrandir, a Randir Vithren... </i> ♫
 {\an8} [English] ♫ Mithrandir, o Pilgrim Grey... ♫
 
 1543
@@ -6681,7 +6681,7 @@ Oh, that doesn't do them justice by a long road.
 1548
 02:38:19,525 --> 02:38:23,820
 {\an8} [Quenya solo] ♫ <i> Nauva i nauva. </i> ♫
-{\an8} [English] ♫ Will be what will be. ♫
+{\an8} [English] ♫ What should be shall be. ♫
 
 1549
 02:38:23,820 --> 02:38:29,743
@@ -6725,7 +6725,7 @@ She said to me; "Even now there is hope Left."
 1558
 02:38:49,471 --> 02:38:56,770
 {\an8} [Quenya solo] ♫ <i> Ilfirin nairelma... </i> ♫
-{\an8} [English] ♫ Undying is our lament... ♫
+{\an8} [English] ♫ Undying is our regret... ♫
 
 1559
 02:38:52,090 --> 02:38:54,690
