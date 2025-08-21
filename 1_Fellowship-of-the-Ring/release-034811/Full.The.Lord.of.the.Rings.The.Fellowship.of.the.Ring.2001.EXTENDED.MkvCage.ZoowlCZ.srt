@@ -6586,17 +6586,17 @@ Tonight, you will sleep....
 
 1527
 02:37:11,200 --> 02:37:15,600
-{\an8} [Sindarin] ♫ <i> In gwidh ristennin... </i> ♫
+{\an8} [Sindarin chorus] ♫ <i> In gwidh ristennin... </i> ♫
 {\an8} [English] ♫ The bonds cut... ♫
 
 1528
 02:37:15,600 --> 02:37:22,000
-{\an8} [Quenya] ♫ <i> Ilfirin nairelma. </i> ♫
+{\an8} [Quenya solo] ♫ <i> Ilfirin nairelma. </i> ♫
 {\an8} [English] ♫ Undying is our lament. ♫
 
 1529
 02:37:22,001 --> 02:37:30,701
-{\an8} [Sindarin] ♫ <i> ...i fae narchannen. </i> ♫
+{\an8} [Sindarin chorus] ♫ <i> ...i fae narchannen. </i> ♫
 {\an8} [English] ♫ ...the spirit broken. ♫
 
 1530
@@ -6605,12 +6605,12 @@ A lament for Gandalf.
 
 1531
 02:37:30,702 --> 02:37:34,006
-{\an8} [Quenya] ♫ <i> Nauva i nauva. </i> ♫
+{\an8} [Quenya solo] ♫ <i> Nauva i nauva. </i> ♫
 {\an8} [English] ♫ Will be what will be. ♫
 
 1532
 02:37:34,007 --> 02:37:42,195
-{\an8} [Sindarin] ♫ <i> I Lach Anor ed...  </i> ♫
+{\an8} [Sindarin chorus] ♫ <i> I Lach Anor ed...  </i> ♫
 {\an8} [English] ♫ The Flame of Anor out... ♫
 
 1533
@@ -6627,7 +6627,7 @@ For me, the grief is still too near.
 
 1536
 02:37:42,195 --> 02:37:50,212
-{\an8} [Quenya] ♫ <i> Ilfirin nairelma... </i> ♫
+{\an8} [Quenya solo] ♫ <i> Ilfirin nairelma... </i> ♫
 {\an8} [English] ♫ Undying is our lament... ♫
 
 1537
@@ -6640,12 +6640,12 @@ There should be a verse about them.
 
 1539
 02:37:50,212 --> 02:37:54,916
-{\an8} [Sindarin] ♫ <i> ...ardhon gwannen.  </i> ♫
+{\an8} [Sindarin chorus] ♫ <i> ...ardhon gwannen.  </i> ♫
 {\an8} [English] ♫ ...left this world. ♫
 
 1540
 02:37:54,916 --> 02:37:58,954
-{\an8} [Quenya] ♫ <i> ...ar ullume nucuvalme. </i> ♫
+{\an8} [Quenya solo] ♫ <i> ...ar ullume nucuvalme. </i> ♫
 {\an8} [English] ♫ ...yet we will cast all away. ♫
 
 1541
@@ -6654,7 +6654,7 @@ The finest rockets ever seen
 
 1542
 02:37:58,955 --> 02:38:11,733
-{\an8} [Sindarin] ♫ <i> Mithrandir, o Randir Vithren... </i> ♫
+{\an8} [Sindarin chorus] ♫ <i> Mithrandir, o Randir Vithren... </i> ♫
 {\an8} [English] ♫ Mithrandir, o Pilgrim Grey... ♫
 
 1543
@@ -6671,7 +6671,7 @@ Came falling like a rain of flowers
 
 1546
 02:38:11,757 --> 02:38:19,524
-{\an8} [Sindarin] ♫ <i> ...ú-reniathach... </i> ♫
+{\an8} [Sindarin chorus] ♫ <i> ...ú-reniathach... </i> ♫
 {\an8} [English] ♫ ...you will not journey... ♫
 
 1547
@@ -6680,12 +6680,12 @@ Oh, that doesn't do them justice by a long road.
 
 1548
 02:38:19,525 --> 02:38:23,820
-{\an8} [Quenya] ♫ <i> Nauva i nauva. </i> ♫
+{\an8} [Quenya solo] ♫ <i> Nauva i nauva. </i> ♫
 {\an8} [English] ♫ Will be what will be. ♫
 
 1549
 02:38:23,820 --> 02:38:29,743
-{\an8} [Sindarin] ♫ <i> ...i amar galen. </i> ♫
+{\an8} [Sindarin chorus] ♫ <i> ...i amar galen. </i> ♫
 {\an8} [English] ♫ ...the world green. ♫
 
 1550
@@ -6694,7 +6694,7 @@ Take some rest.
 
 1551
 02:38:29,743 --> 02:38:36,350
-{\an8} [Quenya] ♫ <i> Melme nóren sina... </i> ♫
+{\an8} [Quenya solo] ♫ <i> Melme nóren sina... </i> ♫
 {\an8} [English] ♫ Love for this land... ♫
 
 1552
@@ -6707,7 +6707,7 @@ I will find no rest here.
 
 1554
 02:38:36,351 --> 02:38:49,471
-{\an8} [Sindarin] ♫ <i> I reniad lín ne môr nuithannen. </i> ♫
+{\an8} [Sindarin chorus] ♫ <i> I reniad lín ne môr nuithannen. </i> ♫
 {\an8} [English] ♫ The journey of you in darkness stopped. ♫
 
 1555
@@ -6724,7 +6724,7 @@ She said to me; "Even now there is hope Left."
 
 1558
 02:38:49,471 --> 02:38:56,770
-{\an8} [Quenya] ♫ <i> Ilfirin nairelma... </i> ♫
+{\an8} [Quenya solo] ♫ <i> Ilfirin nairelma... </i> ♫
 {\an8} [English] ♫ Undying is our lament... ♫
 
 1559
@@ -6737,7 +6737,7 @@ It is long since we had any hope.
 
 1561
 02:38:56,770 --> 02:39:04,770
-{\an8} [Quenya] ♫ <i> ...ar ullume nucuvalme. </i> ♫
+{\an8} [Quenya solo] ♫ <i> ...ar ullume nucuvalme. </i> ♫
 {\an8} [English] ♫ ...yet we will cast all away. ♫
 
 1562
