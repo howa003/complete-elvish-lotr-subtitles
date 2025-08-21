@@ -1,6 +1,6 @@
 ﻿1
 00:00:00,000 --> 00:00:05,000
-These English & Foreign subtitles created by ZoowlCZ (ver. 2024-10b) are an expanded version of the English subtitles (6053820) uploaded by lusiads to OpenSubtitles.
+ⓘ These English & Foreign subtitles created by ZoowlCZ (ver. 2024-10b) are an expanded version of the English subtitles (6053820) uploaded by lusiads to OpenSubtitles.
 
 2
 00:00:10,618 --> 00:00:23,620
@@ -1668,17 +1668,17 @@ Tonight, you will sleep....
 
 390
 00:51:32,502 --> 00:51:36,902
-{\an8} [Sindarin] ♫ <i> In gwidh ristennin... </i> ♫
+{\an8} [Sindarin chorus] ♫ <i> In gwidh ristennin... </i> ♫
 {\an8} [English] ♫ The bonds cut... ♫
 
 391
 00:51:36,902 --> 00:51:43,303
-{\an8} [Quenya] ♫ <i> Ilfirin nairelma. </i> ♫
-{\an8} [English] ♫ Undying is our lament. ♫
+{\an8} [Quenya solo] ♫ <i> Ilfirin nairelma. </i> ♫
+{\an8} [English] ♫ Undying is our regret. ♫
 
 392
 00:51:43,304 --> 00:51:52,004
-{\an8} [Sindarin] ♫ <i> ...i fae narchannen. </i> ♫
+{\an8} [Sindarin chorus] ♫ <i> ...i fae narchannen. </i> ♫
 {\an8} [English] ♫ ...the spirit broken. ♫
 
 393
@@ -1687,12 +1687,12 @@ A lament for Gandalf.
 
 394
 00:51:52,005 --> 00:51:55,310
-{\an8} [Quenya] ♫ <i> Nauva i nauva. </i> ♫
-{\an8} [English] ♫ Will be what will be. ♫
+{\an8} [Quenya solo] ♫ <i> Nauva i nauva. </i> ♫
+{\an8} [English] ♫ What should be shall be. ♫
 
 395
 00:51:55,311 --> 00:52:03,500
-{\an8} [Sindarin] ♫ <i> I Lach Anor ed...  </i> ♫
+{\an8} [Sindarin chorus] ♫ <i> I Lach Anor ed...  </i> ♫
 {\an8} [English] ♫ The Flame of Anor out... ♫
 
 396
@@ -1709,8 +1709,8 @@ For me, the grief is still too near.
 
 399
 00:52:03,500 --> 00:52:11,517
-{\an8} [Quenya] ♫ <i> Ilfirin nairelma... </i> ♫
-{\an8} [English] ♫ Undying is our lament... ♫
+{\an8} [Quenya solo] ♫ <i> Ilfirin nairelma... </i> ♫
+{\an8} [English] ♫ Undying is our regret... ♫
 
 400
 00:52:08,195 --> 00:52:10,995
@@ -1722,12 +1722,12 @@ There should be a verse about them.
 
 402
 00:52:11,517 --> 00:52:16,222
-{\an8} [Sindarin] ♫ <i> ...ardhon gwannen.  </i> ♫
+{\an8} [Sindarin chorus] ♫ <i> ...ardhon gwannen.  </i> ♫
 {\an8} [English] ♫ ...left this world. ♫
 
 403
 00:52:16,222 --> 00:52:20,260
-{\an8} [Quenya] ♫ <i> ...ar ullume nucuvalme. </i> ♫
+{\an8} [Quenya solo] ♫ <i> ...ar ullume nucuvalme. </i> ♫
 {\an8} [English] ♫ ...yet we will cast all away. ♫
 
 404
@@ -1736,7 +1736,7 @@ The finest rockets ever seen
 
 405
 00:52:20,261 --> 00:52:33,040
-{\an8} [Sindarin] ♫ <i> Mithrandir, o Randir Vithren... </i> ♫
+{\an8} [Sindarin chorus] ♫ <i> Mithrandir, a Randir Vithren... </i> ♫
 {\an8} [English] ♫ Mithrandir, o Pilgrim Grey... ♫
 
 406
@@ -1753,7 +1753,7 @@ Came falling like a rain of flowers
 
 409
 00:52:33,064 --> 00:52:40,832
-{\an8} [Sindarin] ♫ <i> ...ú-reniathach... </i> ♫
+{\an8} [Sindarin chorus] ♫ <i> ...ú-reniathach... </i> ♫
 {\an8} [English] ♫ ...you will not journey... ♫
 
 410
@@ -1762,12 +1762,12 @@ Oh, that doesn't do them justice by a long road.
 
 411
 00:52:40,833 --> 00:52:45,128
-{\an8} [Quenya] ♫ <i> Nauva i nauva. </i> ♫
-{\an8} [English] ♫ Will be what will be. ♫
+{\an8} [Quenya solo] ♫ <i> Nauva i nauva. </i> ♫
+{\an8} [English] ♫ What should be shall be. ♫
 
 412
 00:52:45,128 --> 00:52:51,052
-{\an8} [Sindarin] ♫ <i> ...i amar galen. </i> ♫
+{\an8} [Sindarin chorus] ♫ <i> ...i amar galen. </i> ♫
 {\an8} [English] ♫ ...the world green. ♫
 
 413
@@ -1776,7 +1776,7 @@ Take some rest.
 
 414
 00:52:51,052 --> 00:52:57,660
-{\an8} [Quenya] ♫ <i> Melme nóren sina... </i> ♫
+{\an8} [Quenya solo] ♫ <i> Melme nóren sina... </i> ♫
 {\an8} [English] ♫ Love for this land... ♫
 
 415
@@ -1789,7 +1789,7 @@ I will find no rest here.
 
 417
 00:52:57,661 --> 00:53:10,782
-{\an8} [Sindarin] ♫ <i> I reniad lín ne môr nuithannen. </i> ♫
+{\an8} [Sindarin chorus] ♫ <i> I reniad lín ne môr nuithannen. </i> ♫
 {\an8} [English] ♫ The journey of you in darkness stopped. ♫
 
 418
@@ -1806,8 +1806,8 @@ She said to me; "Even now there is hope Left."
 
 421
 00:53:10,782 --> 00:53:18,081
-{\an8} [Quenya] ♫ <i> Ilfirin nairelma... </i> ♫
-{\an8} [English] ♫ Undying is our lament... ♫
+{\an8} [Quenya solo] ♫ <i> Ilfirin nairelma... </i> ♫
+{\an8} [English] ♫ Undying is our regret... ♫
 
 422
 00:53:13,401 --> 00:53:16,001
@@ -1819,7 +1819,7 @@ It is long since we had any hope.
 
 424
 00:53:18,081 --> 00:53:26,082
-{\an8} [Quenya] ♫ <i> ...ar ullume nucuvalme. </i> ♫
+{\an8} [Quenya solo] ♫ <i> ...ar ullume nucuvalme. </i> ♫
 {\an8} [English] ♫ ...yet we will cast all away. ♫
 
 425
@@ -3193,3 +3193,4 @@ Sam...
 745
 01:34:27,929 --> 01:34:30,429
 ...I'm glad you are with me.
+

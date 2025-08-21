@@ -1,19 +1,19 @@
 ﻿1
 00:00:00,000 --> 00:00:05,000
-These English & Foreign subtitles created by ZoowlCZ (ver. 2024-10b) are an expanded version of the English subtitles (6053820) uploaded by lusiads to OpenSubtitles.
+ⓘ These English & Foreign subtitles created by ZoowlCZ (ver. 2024-10b) are an expanded version of the English subtitles (6053820) uploaded by lusiads to OpenSubtitles.
 
 2
 00:00:05,000 --> 00:00:09,999
-Very special thanks to <i>Gwaith-i-Phethdain</i> and <i>Magpie of A Magpie's Nest and Friends</i>
+ⓘ Very special thanks to <i>Gwaith-i-Phethdain</i> and <i>Magpie of A Magpie's Nest and Friends</i>
 for their extraordinary work on deciphering the dialogs and lyrics.
 
 3
 00:00:10,000 --> 00:00:14,999
-Special thanks also to <i>TheGloriousLori</i> and <i>Monoverantus</i>.
+ⓘ Special thanks also to <i>TheGloriousLori</i> and <i>Monoverantus</i>.
 
 4
 00:00:15,023 --> 00:00:20,022
-{\an8} [Note] For correct displaying of these subtitles, use a media player
+{\an8} ⓘ For correct displaying of these subtitles, use a media player
 supporting ASS tags in .srt files.
 
 5
