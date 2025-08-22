@@ -25,7 +25,10 @@ For each movie, various types of subtitles are available:
 
 ### 1.3) Movie releases
 
-All subtitles are created for the Blu-ray releases of the extended editions and should be compatible with any releases with the same runtime lengths.
+All subtitles are created for the extended editions (duh). Moreover, **each movie subtitles are created for three different movie releases**:
+* ShortPause: One srt file for the Blue-ray rip with short pause between the last scene of Disk1 and first scene of Disk2.
+* LongPause: One srt file for the Blue-ray rip with long pause between the last scene of Disk1 and first scene of Disk2.
+* TwoDVDs: Set of 2 srt files for the original old DVD release of extended edition.
 
 **If you want subtitles retimed for a different release, let me know** here on GitHub or in the comments of the appropriate [Reddit thread](#2-reddit-threads).
 
