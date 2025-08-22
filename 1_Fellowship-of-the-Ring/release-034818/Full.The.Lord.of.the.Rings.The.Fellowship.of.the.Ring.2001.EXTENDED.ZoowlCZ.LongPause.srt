@@ -416,27 +416,27 @@ A ring.
 Lost!
 
 98
-00:07:22,540 --> 00:07:25,440
-The 22nd day of September...
-
-99
 00:07:25,440 --> 00:07:27,140
 My precious is lost!
 
-100
+99
 00:07:27,540 --> 00:07:29,740
 For the time will soon come...
 
-101
+100
 00:07:30,140 --> 00:07:35,040
 ... when Hobbits will shape the fortunes of all.
 
+101
+00:07:39,815 --> 00:07:41,815
+The 22nd day of September...
+
 102
-00:07:43,240 --> 00:07:46,340
+00:07:42,840 --> 00:07:45,940
 ...in the year 1400...
 
 103
-00:07:46,740 --> 00:07:48,940
+00:07:46,340 --> 00:07:48,540
 ...by Shire-reckoning.
 
 104
