@@ -17,10 +17,11 @@ Though subtitles for all 3 movies are already available, **this is an ongoing pr
 ### 1.2) Subtitle versions
 
 For each movie, various types of subtitles are available:
-- **Full**: Subtitles containing all English dialogs as well as the the transcriptions and translations of foreign-language dialogs and song lyrics.
-- **Foreign-only**: Subtitles containing only the transcriptions and translations of foreign-language dialogs and song lyrics.
-- **Foreign-dialogs-only**: Subtitles containing only the transcriptions and translations of foreign-language dialogs (i.e., no song lyrics).
-- **English-only**: Subtitles containing only the English dialogs (this is the source file for the Full version).
+- **<ins>Full subtitles</ins>**: Subtitles containing all English dialogs as well as the the transcriptions and translations of foreign-language dialogs and song lyrics.
+- **<ins>Partial subtitles</ins>**
+  - **Foreign dialogs and lyrics**: Subtitles containing only the transcriptions and translations of foreign-language dialogs and song lyrics.
+  - **Foreign dialogs**: Subtitles containing only the transcriptions and translations of foreign-language dialogs (i.e., no song lyrics).
+  - **English and foreign dialogs**: Subtitles containing all English dialogs foreign dialogs (i.e., no song lyrics).
 
 
 ### 1.3) Movie releases
