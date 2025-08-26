@@ -22,7 +22,7 @@ For each movie, various types of subtitles are available:
 - **<ins>Partial subtitles</ins>**
   - **Foreign dialogs and lyrics**: Subtitles containing only the transcriptions and translations of foreign-language dialogs and song lyrics.
   - **Foreign dialogs**: Subtitles containing only the transcriptions and translations of foreign-language dialogs (i.e., no song lyrics).
-  - **English and foreign dialogs**: Subtitles containing all English dialogs foreign dialogs (i.e., no song lyrics).
+  - **No lyrics**: Subtitles containing all English dialogs foreign dialogs but no song lyrics.
 
 
 ### 1.3) Movie releases
