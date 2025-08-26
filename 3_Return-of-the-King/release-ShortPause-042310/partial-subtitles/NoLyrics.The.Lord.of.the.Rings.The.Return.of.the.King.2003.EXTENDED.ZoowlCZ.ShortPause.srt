@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:00,000 --> 00:00:04,999
 These English & Foreign subtitles created by ZoowlCZ (ver. 2024-10) are an expanded version of the English subtitles created by Bokutox of YIFY-TORRENTS (Torporr of Outland PVP (EU)).
 
@@ -4822,7 +4822,7 @@ Grond! Grond! Grond!
 
 1170
 02:07:31,057 --> 02:07:34,758
-Grond! Grond! Grond!
+Grond! Grond! Grond!!
 
 1171
 02:07:49,716 --> 02:07:51,489
@@ -7192,358 +7192,318 @@ Let us together rebuild this world...
 that we may share in the days of peace.
 
 1752
-03:44:15,900 --> 03:44:19,400
-[Quenya] ♫<i> Et Eärello...</i> ♫
-[English] ♫ Out of the Great Sea... ♫
-
-1753
-03:44:20,200 --> 03:44:26,600
-[Quenya] ♫<i> ...Endorenna utúlien. </i>♫
-[English] ♫ ...to Middle-earth I am come. ♫
-
-1754
-03:44:28,900 --> 03:44:32,700
-[Quenya] ♫<i> Sinome maruvan... </i>♫
-[English] ♫ In this place I will abide... ♫
-
-1755
-03:44:33,600 --> 03:44:39,100
-[Quenya] ♫<i> ...ar Hildinyar... </i>♫
-[English] ♫ ...and my heirs... ♫
-
-1756
-03:44:40,200 --> 03:44:48,700
-[Quenya] ♫<i> ...tenn’ Ambar-metta. </i>♫
-[English] ♫ ...unto the World-ending. ♫
-
-1757
 03:44:58,100 --> 03:44:59,600
 [Sindarin] <i>Hannon le.</i>
 [English] Thank you.
 
-1758
-03:45:10,779 --> 03:45:25,485
-{\an8} [Sindarin] ♫<i> Tinúviel... </i>♫
-{\an8} [English] ♫ Tinúviel... ♫
-
-1759
-03:45:25,485 --> 03:45:35,881
-{\an8} [Sindarin] ♫<i> ...elvanui... </i>♫
-{\an8} [English] ♫ ...the elven-fair... ♫
-
-1760
-03:45:35,889 --> 03:45:54,400
-{\an8} [Sindarin] ♫<i> ...elleth alfirin edhelhael. </i>♫
-{\an8} [English] ♫ ...immortal maiden elven-wise. ♫
-
-1761
+1753
 03:46:38,025 --> 03:46:40,143
 My friends...
 
-1762
+1754
 03:46:45,427 --> 03:46:48,117
 you bow to no one.
 
-1763
+1755
 03:47:32,241 --> 03:47:34,405
 And thus it was.
 
-1764
+1756
 03:47:34,535 --> 03:47:38,194
 A Fourth Age of Middle-earth began.
 
-1765
+1757
 03:47:38,340 --> 03:47:40,910
 And the Fellowship of the Ring...
 
-1766
+1758
 03:47:41,051 --> 03:47:45,578
 though eternally bound by friendship and love...
 
-1767
+1759
 03:47:45,742 --> 03:47:48,160
 was ended.
 
-1768
+1760
 03:47:53,146 --> 03:47:57,969
 Thirteen months to the day since
 Gandalf sent us on our long journey...
 
-1769
+1761
 03:47:58,097 --> 03:48:02,350
 we found ourselves looking upon a familiar sight.
 
-1770
+1762
 03:48:04,875 --> 03:48:07,600
 We were home.
 
-1771
+1763
 03:48:14,154 --> 03:48:16,027
 Hi.
 
-1772
+1764
 03:48:33,182 --> 03:48:35,419
 Hey, watch the pumpkin.
 
-1773
+1765
 03:49:23,488 --> 03:49:25,087
 More of the same, Rosie.
 
-1774
+1766
 03:49:25,261 --> 03:49:27,252
 Good night, lads.
 
-1775
+1767
 03:50:24,794 --> 03:50:28,812
 How do you pick up the threads of an old life?
 
-1776
+1768
 03:50:30,111 --> 03:50:32,359
 How do you go on...
 
-1777
+1769
 03:50:32,509 --> 03:50:37,737
 when in your heart you begin to understand...
 
-1778
+1770
 03:50:38,974 --> 03:50:41,947
 there is no going back?
 
-1779
+1771
 03:50:42,622 --> 03:50:46,329
 There are some things that time cannot mend...
 
-1780
+1772
 03:50:46,793 --> 03:50:49,752
 some hurts that go too deep...
 
-1781
+1773
 03:50:51,485 --> 03:50:54,341
 that have taken hold.
 
-1782
+1774
 03:51:32,459 --> 03:51:34,375
 Mr. Frodo?
 
-1783
+1775
 03:51:37,673 --> 03:51:39,090
 What is it?
 
-1784
+1776
 03:51:40,904 --> 03:51:44,875
 It's been four years to the day since Weathertop, Sam.
 
-1785
+1777
 03:51:45,544 --> 03:51:48,259
 It's never really healed.
 
-1786
+1778
 03:51:52,217 --> 03:51:57,482
 "There and Back Again." A
 Hobbit's tale by Bilbo Baggins.
 
-1787
+1779
 03:51:58,160 --> 03:52:02,018
 And "The Lord of the Rings" by Frodo Baggins.
 
-1788
+1780
 03:52:02,487 --> 03:52:04,687
 You finished it.
 
-1789
+1781
 03:52:07,544 --> 03:52:09,069
 Not quite.
 
-1790
+1782
 03:52:09,838 --> 03:52:12,448
 There's room for a little more.
 
-1791
+1783
 03:52:15,050 --> 03:52:19,293
 Bilbo once told me his part in this tale would end...
 
-1792
+1784
 03:52:19,429 --> 03:52:22,746
 that each of us must come and go in the telling.
 
-1793
+1785
 03:52:23,600 --> 03:52:26,465
 Bilbo's story was now over.
 
-1794
+1786
 03:52:26,936 --> 03:52:29,884
 There would be no more journeys for him...
 
-1795
+1787
 03:52:30,012 --> 03:52:31,595
 save one.
 
-1796
+1788
 03:52:32,306 --> 03:52:35,955
 Tell me again, lad, where are we going?
 
-1797
+1789
 03:52:36,059 --> 03:52:38,093
 To the harbor, Bilbo.
 
-1798
+1790
 03:52:38,249 --> 03:52:40,973
 The Elves have accorded you a special honor...
 
-1799
+1791
 03:52:41,115 --> 03:52:43,768
 a place on the last ship to leave Middle-earth.
 
-1800
+1792
 03:52:45,442 --> 03:52:47,144
 Frodo...
 
-1801
+1793
 03:52:48,570 --> 03:52:53,113
 any chance of seeing that old Ring of mine again?
 
-1802
+1794
 03:52:53,732 --> 03:52:55,983
 The one I gave you.
 
-1803
+1795
 03:52:59,622 --> 03:53:01,780
 I'm sorry, Uncle.
 
-1804
+1796
 03:53:04,314 --> 03:53:06,956
 I'm afraid I lost it.
 
-1805
+1797
 03:53:07,129 --> 03:53:08,921
 Oh.
 
-1806
+1798
 03:53:09,474 --> 03:53:11,006
 Pity.
 
-1807
+1799
 03:53:13,749 --> 03:53:17,627
 I should like to have held it one last time.
 
-1808
+1800
 03:53:46,748 --> 03:53:51,831
 Well, here's a sight I have never seen before.
 
-1809
+1801
 03:54:05,985 --> 03:54:09,349
 The power of the Three Rings is ended.
 
-1810
+1802
 03:54:10,102 --> 03:54:12,931
 The time has come...
 
-1811
+1803
 03:54:13,074 --> 03:54:16,359
 for the dominion of Men.
 
-1812
+1804
 03:54:16,800 --> 03:54:19,800
 [Sindarin] <i>I Aear cân ven na mar.</i>
 [English] The sea calls us to home.
 
-1813
+1805
 03:54:28,765 --> 03:54:30,945
 I think I'm...
 
-1814
+1806
 03:54:31,112 --> 03:54:35,499
 quite ready for another adventure.
 
-1815
+1807
 03:55:06,561 --> 03:55:08,859
 Farewell...
 
-1816
+1808
 03:55:09,010 --> 03:55:11,783
 my brave Hobbits.
 
-1817
+1809
 03:55:13,702 --> 03:55:15,736
 My work is now finished.
 
-1818
+1810
 03:55:19,541 --> 03:55:24,541
 Here at last, on the shores of the sea...
 
-1819
+1811
 03:55:25,171 --> 03:55:28,048
 comes the end of our Fellowship.
 
-1820
+1812
 03:55:31,583 --> 03:55:34,085
 I will not say, "Do not weep"...
 
-1821
+1813
 03:55:34,763 --> 03:55:38,760
 for not all tears are an evil.
 
-1822
+1814
 03:55:56,293 --> 03:55:58,233
 It is time, Frodo.
 
-1823
+1815
 03:56:03,748 --> 03:56:05,782
 What does he mean?
 
-1824
+1816
 03:56:08,231 --> 03:56:11,122
 We set out to save the Shire, Sam.
 
-1825
+1817
 03:56:12,714 --> 03:56:15,466
 And it has been saved.
 
-1826
+1818
 03:56:19,127 --> 03:56:21,806
 But not for me.
 
-1827
+1819
 03:56:22,723 --> 03:56:25,179
 You don't mean that.
 
-1828
+1820
 03:56:26,372 --> 03:56:28,469
 You can't leave.
 
-1829
+1821
 03:56:36,903 --> 03:56:39,649
 The last pages are for you, Sam.
 
-1830
+1822
 04:00:12,724 --> 04:00:15,595
 My dear Sam
 
-1831
+1823
 04:00:17,521 --> 04:00:20,853
 You cannot always be torn in two.
 
-1832
+1824
 04:00:21,013 --> 04:00:25,151
 You will have to be one and whole for many years.
 
-1833
+1825
 04:00:25,757 --> 04:00:31,359
 You have so much to enjoy and to be and to do.
 
-1834
+1826
 04:00:32,482 --> 04:00:35,783
 Your part in the story will go on.
 
-1835
+1827
 04:00:36,496 --> 04:00:38,281
 Well...
 
-1836
+1828
 04:00:40,145 --> 04:00:41,874
 I'm back.
 
-1837
+1829
 04:06:39,460 --> 04:06:44,915
 ...into the west.
 

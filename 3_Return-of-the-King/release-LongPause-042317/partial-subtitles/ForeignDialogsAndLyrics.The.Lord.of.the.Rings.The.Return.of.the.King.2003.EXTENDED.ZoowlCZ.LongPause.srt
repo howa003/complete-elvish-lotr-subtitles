@@ -1,0 +1,140 @@
+1
+00:19:52,300 --> 00:19:54,450
+These Foreign-only subtitles  were created by <i>ZoowlCZ</i>.
+[English] Be-thou Aragorn well!
+
+2
+00:40:35,700 --> 00:40:36,700
+[Sindarin] <i>Ada.</i>
+[English] Father.
+
+3
+00:41:24,000 --> 00:41:25,000
+[Sindarin] <i>Ada...</i>
+[English] Father...
+
+4
+01:42:33,171 --> 01:42:35,557
+[Sindarin] <i>Ónen i-Estel Edain.</i>
+[English] I gave hope to Men.
+
+5
+01:42:39,303 --> 01:42:40,403
+[Sindarin] <i>Ú-chebin...</i>
+[English] I have kept...
+
+6
+01:42:41,989 --> 01:42:43,204
+[Sindarin] <i>...Estel anim.</i>
+[English] ...no hope for me.
+
+7
+01:50:51,200 --> 01:50:52,800
+[Black Speech] <i> Katmuda! </i>
+[English]  Death to men!
+
+8
+01:50:54,324 --> 01:50:55,624
+[Black Speech] <i> Katmuda! </i>
+[English]  Death to men!
+
+9
+01:50:55,625 --> 01:50:56,225
+[Black Speech] <i> Gorosh! </i>
+[English]  Louder!
+
+10
+01:50:56,226 --> 01:50:57,526
+[Black Speech] <i> Katmuda! </i>
+[English]  Death to men!
+
+11
+01:50:57,527 --> 01:50:58,027
+[Black Speech] <i> Gorosh! </i>
+[English]  Louder!
+
+12
+01:50:58,028 --> 01:50:59,328
+[Black Speech] <i> Katmuda! </i>
+[English]  Death to men!
+
+13
+01:50:59,329 --> 01:51:00,829
+[Black Speech] <i> Gorosh chadar! </i>
+[English]  Loud enough!
+
+14
+02:12:51,055 --> 02:12:54,600
+[Quenya] <i>Aiya Eärendil, Elenion Ancalima!</i>
+[English] Hail Eärendil, Brightest of the Stars!
+
+15
+03:15:43,400 --> 03:15:45,400
+[Black Speech] <i> Kelkum-ishi. </i>
+[English]  In the coldness.
+
+16
+03:19:52,000 --> 03:19:54,000
+[Black Speech] <i> Ash nazg durb! </i>
+[English]  One Ring to rule!
+
+17
+03:20:03,200 --> 03:20:05,200
+[Black Speech] <i> Ash nazg durb! </i>
+[English]  One Ring to rule!
+
+18
+03:20:37,324 --> 03:20:39,324
+[Black Speech] <i> Ash nazg durb! </i>
+[English]  One Ring to rule!
+
+19
+03:44:22,900 --> 03:44:26,400
+[Quenya] ♫<i> Et Eärello...</i> ♫
+[English] ♫ Out of the Great Sea... ♫
+
+20
+03:44:27,200 --> 03:44:33,600
+[Quenya] ♫<i> ...Endorenna utúlien. </i>♫
+[English] ♫ ...to Middle-earth I am come. ♫
+
+21
+03:44:35,900 --> 03:44:39,700
+[Quenya] ♫<i> Sinome maruvan... </i>♫
+[English] ♫ In this place I will abide... ♫
+
+22
+03:44:40,600 --> 03:44:46,100
+[Quenya] ♫<i> ...ar Hildinyar... </i>♫
+[English] ♫ ...and my heirs... ♫
+
+23
+03:44:47,200 --> 03:44:55,700
+[Quenya] ♫<i> ...tenn’ Ambar-metta. </i>♫
+[English] ♫ ...unto the World-ending. ♫
+
+24
+03:45:05,100 --> 03:45:06,600
+[Sindarin] <i>Hannon le.</i>
+[English] Thank you.
+
+25
+03:45:17,779 --> 03:45:32,485
+{\an8} [Sindarin] ♫<i> Tinúviel... </i>♫
+{\an8} [English] ♫ Tinúviel... ♫
+
+26
+03:45:32,485 --> 03:45:42,881
+{\an8} [Sindarin] ♫<i> ...elvanui... </i>♫
+{\an8} [English] ♫ ...the elven-fair... ♫
+
+27
+03:45:42,889 --> 03:46:01,400
+{\an8} [Sindarin] ♫<i> ...elleth alfirin edhelhael. </i>♫
+{\an8} [English] ♫ ...immortal maiden elven-wise. ♫
+
+28
+03:54:23,800 --> 03:54:26,800
+[Sindarin] <i>I Aear cân ven na mar.</i>
+[English] The sea calls us to home.
+

@@ -1,0 +1,65 @@
+1
+00:19:50,546 --> 00:19:52,696
+These Foreign-only subtitles  were created by <i>ZoowlCZ</i>.
+[English] Be-thou Aragorn well!
+
+2
+00:40:34,017 --> 00:40:35,017
+[Sindarin] <i>Ada.</i>
+[English] Father.
+
+3
+00:41:22,320 --> 00:41:23,320
+[Sindarin] <i>Ada...</i>
+[English] Father...
+
+4
+01:42:31,702 --> 01:42:34,088
+[Sindarin] <i>Ónen i-Estel Edain.</i>
+[English] I gave hope to Men.
+
+5
+01:42:37,835 --> 01:42:38,935
+[Sindarin] <i>Ú-chebin...</i>
+[English] I have kept...
+
+6
+01:42:40,521 --> 01:42:41,736
+[Sindarin] <i>...Estel anim.</i>
+[English] ...no hope for me.
+
+7
+01:50:49,760 --> 01:50:51,360
+[Black Speech] <i> Katmuda! </i>
+[English]  Death to men!
+
+8
+01:50:52,884 --> 01:50:54,184
+[Black Speech] <i> Katmuda! </i>
+[English]  Death to men!
+
+9
+01:50:54,185 --> 01:50:54,785
+[Black Speech] <i> Gorosh! </i>
+[English]  Louder!
+
+10
+01:50:54,786 --> 01:50:56,086
+[Black Speech] <i> Katmuda! </i>
+[English]  Death to men!
+
+11
+01:50:56,087 --> 01:50:56,587
+[Black Speech] <i> Gorosh! </i>
+[English]  Louder!
+
+12
+01:50:56,588 --> 01:50:57,888
+[Black Speech] <i> Katmuda! </i>
+[English]  Death to men!
+
+13
+01:50:57,889 --> 01:50:59,389
+[Black Speech] <i> Gorosh chadar! </i>
+[English]  Loud enough!
+
