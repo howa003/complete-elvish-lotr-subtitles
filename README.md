@@ -2,8 +2,18 @@
 Complete subtitles for the Lord of the Rings movies with transcription and translation of **all foreign (Elvish, Black Speech, Rohirric, etc.) dialogs** and selected song lyrics.
 
 
+## 0) TL;DR info
 
-## 1) About the subtitles
+If you do not need anything special, download these subtitles (click on "Download raw file" in the upper right corner):
+- [Fellowship of the Ring](https://github.com/howa003/complete-elvish-lotr-subtitles/blob/main/1_Fellowship-of-the-Ring/release-ShortPause-034811/Full.The.Lord.of.the.Rings.The.Fellowship.of.the.Ring.2001.EXTENDED.ZoowlCZ.ShortPause.srt),
+- [The Two Towers](https://github.com/howa003/complete-elvish-lotr-subtitles/blob/main/2_The-Two-Towers/release-ShortPause-035525/Full.The.Lord.of.the.Rings.The.Two.Towers.2002.EXTENDED.ZoowlCZ.ShortPause.srt),
+- [Return of the King](https://github.com/howa003/complete-elvish-lotr-subtitles/blob/main/3_Return-of-the-King/release-ShortPause-042310/Full.The.Lord.of.the.Rings.The.Return.of.the.King.2003.EXTENDED.ZoowlCZ.ShortPause.srt).
+
+If the timing of the above subtitles does not work for you, try the "LongPause" or "TwoDVDs" versions, see information below.
+
+If you want some special variation of the subtitles (e.g., only non-english dialogs), see information below.
+
+## 1) Information about the subtitles
 
 ### 1.1) General information
 
