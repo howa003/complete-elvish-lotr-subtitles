@@ -7253,7 +7253,7 @@ Make way!
 
 1751
 03:02:10,448 --> 03:02:12,177
-We cannot hold much longer!
+We can't hold much longer!
 
 1752
 03:02:18,189 --> 03:02:21,716

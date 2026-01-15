@@ -2834,7 +2834,7 @@ Make way!
 
 679
 01:15:37,128 --> 01:15:38,857
-We cannot hold much longer!
+We can't hold much longer!
 
 680
 01:15:44,869 --> 01:15:48,396
