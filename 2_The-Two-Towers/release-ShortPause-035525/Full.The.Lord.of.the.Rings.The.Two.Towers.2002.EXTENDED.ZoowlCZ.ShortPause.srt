@@ -3380,7 +3380,7 @@ Where is my son?
 823
 01:25:30,600 --> 01:25:38,000
 {\an8} [Rohirric] ♫<i> ...his dryhtne dyrest and mæga deorost. </i>♫
-{\an8} [English] ♫ ...to his lord dearest and kinsmen most belover. ♫
+{\an8} [English] ♫ ...to his lord dearest and kinsmen most beloved. ♫
 
 824
 01:25:39,100 --> 01:25:41,700
