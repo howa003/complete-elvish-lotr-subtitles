@@ -3365,7 +3365,7 @@ Where is my son?
 820
 01:25:05,800 --> 01:25:15,000
 {\an8} [Rohirric] ♫<i> Bealocwealm hafað fréone frecan forth onsended. </i>♫
-♫ [English]  ♫ An evil death has set forth the noble warrior. ♫
+{\an8} [English] ♫ An evil death has set forth the noble warrior. ♫
 
 821
 01:25:15,600 --> 01:25:22,000
@@ -4570,7 +4570,7 @@ Go to sleep.
 1110
 01:50:07,024 --> 01:50:21,747
 {\an8} [Sindarin] ♫<i> Ú i vethed... </i>♫
-♫ [English]  ♫ Not the end... ♫
+{\an8} [English] ♫ Not the end... ♫
 
 1111
 01:50:08,905 --> 01:50:11,396
@@ -4587,7 +4587,7 @@ Then it is a good dream.
 1114
 01:50:22,156 --> 01:50:37,304
 {\an8} [Sindarin] ♫<i> ...nâ i onnad. </i>♫
-♫ [English]  ♫ ...it is the beginning. ♫
+{\an8} [English] ♫ ...it is the beginning. ♫
 
 1115
 01:50:37,233 --> 01:50:39,325
@@ -4655,17 +4655,17 @@ Arwen...
 1128
 01:52:04,475 --> 01:52:19,323
 {\an8} [Sindarin] ♫<i> Estelio han. </i>♫
-♫ [English]  ♫ Trust this. ♫
+{\an8} [English] ♫ Trust this. ♫
 
 1129
 01:52:20,423 --> 01:52:27,823
 {\an8} [Sindarin] ♫<i> Estelio han. </i>♫
-♫ [English]  ♫ Trust this. ♫
+{\an8} [English] ♫ Trust this. ♫
 
 1130
 01:52:28,347 --> 01:52:36,256
 {\an8} [Sindarin] ♫<i> Estelio veleth. </i>♫
-♫ [English]  ♫ Trust love. ♫
+{\an8} [English] ♫ Trust love. ♫
 
 1131
 01:52:33,646 --> 01:52:35,477

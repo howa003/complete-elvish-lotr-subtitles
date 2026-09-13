@@ -107,51 +107,11 @@ supporting ASS tags in .srt files.
 [English]  One Ring to rule!
 
 23
-03:44:15,900 --> 03:44:19,400
-[Quenya] ♫<i> Et Eärello...</i> ♫
-[English] ♫ Out of the Great Sea... ♫
-
-24
-03:44:20,200 --> 03:44:26,600
-[Quenya] ♫<i> ...Endorenna utúlien. </i>♫
-[English] ♫ ...to Middle-earth I am come. ♫
-
-25
-03:44:28,900 --> 03:44:32,700
-[Quenya] ♫<i> Sinome maruvan... </i>♫
-[English] ♫ In this place I will abide... ♫
-
-26
-03:44:33,600 --> 03:44:39,100
-[Quenya] ♫<i> ...ar Hildinyar... </i>♫
-[English] ♫ ...and my heirs... ♫
-
-27
-03:44:40,200 --> 03:44:48,700
-[Quenya] ♫<i> ...tenn’ Ambar-metta. </i>♫
-[English] ♫ ...unto the World-ending. ♫
-
-28
 03:44:58,100 --> 03:44:59,600
 [Sindarin] <i>Hannon le.</i>
 [English] Thank you.
 
-29
-03:45:10,779 --> 03:45:25,485
-{\an8} [Sindarin] ♫<i> Tinúviel... </i>♫
-{\an8} [English] ♫ Tinúviel... ♫
-
-30
-03:45:25,485 --> 03:45:35,881
-{\an8} [Sindarin] ♫<i> ...elvanui... </i>♫
-{\an8} [English] ♫ ...the elven-fair... ♫
-
-31
-03:45:35,889 --> 03:45:54,400
-{\an8} [Sindarin] ♫<i> ...elleth alfirin edhelhael. </i>♫
-{\an8} [English] ♫ ...immortal maiden elven-wise. ♫
-
-32
+24
 03:54:16,800 --> 03:54:19,800
 [Sindarin] <i>I Aear cân ven na mar.</i>
 [English] The sea calls us to home.

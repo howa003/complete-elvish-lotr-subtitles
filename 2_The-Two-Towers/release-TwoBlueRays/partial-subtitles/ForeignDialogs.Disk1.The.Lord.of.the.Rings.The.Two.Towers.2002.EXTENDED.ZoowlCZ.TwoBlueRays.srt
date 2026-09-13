@@ -28,96 +28,71 @@ supporting ASS tags in .srt files.
 [English] What do you see?
 
 7
-01:25:05,694 --> 01:25:14,893
-{\an8} [Rohirric] ♫<i> Bealocwealm hafað fréone frecan forth onsended. </i>♫
-♫ [English]  ♫ An evil death has set forth the noble warrior. ♫
-
-8
-01:25:15,493 --> 01:25:21,893
-{\an8} [Rohirric] ♫<i> giedd sculon singan gléomenn sorgiende... </i>♫
-{\an8} [English] ♫ A song shall sing sorrowing minstrels... ♫
-
-9
-01:25:22,593 --> 01:25:29,793
-{\an8} [Rohirric] ♫<i> ...on Meduselde þæt he ma no wære... </i>♫
-{\an8} [English] ♫ ...in Meduseld that he is no more... ♫
-
-10
-01:25:30,493 --> 01:25:37,893
-{\an8} [Rohirric] ♫<i> ...his dryhtne dyrest and mæga deorost. </i>♫
-{\an8} [English] ♫ ...to his lord dearest and kinsmen most beloved. ♫
-
-11
-01:25:38,993 --> 01:25:41,593
-{\an8} [Rohirric] ♫<i> Bealo... </i>♫
-{\an8} [English] ♫ An evil death... ♫
-
-12
 01:25:44,455 --> 01:25:46,184
 [Rohirric] <i> Simbelmynë. </i>
 [English] Evermind.
 
-13
+8
 01:27:04,191 --> 01:27:06,491
 [Rohirric] <i>Westu hál...</i>
 [English] Be-thou well...
 
-14
+9
 01:27:07,891 --> 01:27:09,891
 [Rohirric] <i>Ferðu, Théodred, Ferðu.</i>
 [English] Go-thou, Théodred, go-thou.
 
-15
+10
 01:31:03,886 --> 01:31:05,886
 [Rohirric] <i>Fæste.</i>
 [English] Fast.
 
-16
+11
 01:31:06,886 --> 01:31:07,886
 [Rohirric] <i>Stille nú.</i>
 [English] Calm now.
 
-17
+12
 01:31:11,186 --> 01:31:12,786
 [Rohirric] <i>Fæste.</i>
 [English] Fast.
 
-18
+13
 01:31:15,086 --> 01:31:16,286
 [Rohirric] <i>Stille.</i>
 [English] Calm.
 
-19
+14
 01:31:20,886 --> 01:31:22,686
 [Rohirric] <i>Stille.</i>
 [English] Calm.
 
-20
+15
 01:31:24,886 --> 01:31:25,886
 [Rohirric] <i>Stille.</i>
 [English] Calm.
 
-21
+16
 01:31:27,786 --> 01:31:30,185
 [Rohirric] <i>Lac is drefed, gefrægon.</i>
 [English] A battle is stirred up, they heard.
 
-22
+17
 01:31:37,385 --> 01:31:38,962
 [Rohirric] <i>Hwæt nemnað ðe?</i>
 [English] What is your name?
 
-23
+18
 01:31:49,785 --> 01:31:51,985
 [Rohirric] <i>Ðin nama is cynglic.</i>
 [English] Your name is kingly.
 
-24
+19
 01:31:54,185 --> 01:31:56,185
 [Sindarin] <i>Man le trasta, Brego?</i>
 [English] What troubles you, Brego?
 
-25
+20
 01:32:01,285 --> 01:32:02,885
 [Sindarin] <i>Man cenich?</i>
 [English] What did you see?

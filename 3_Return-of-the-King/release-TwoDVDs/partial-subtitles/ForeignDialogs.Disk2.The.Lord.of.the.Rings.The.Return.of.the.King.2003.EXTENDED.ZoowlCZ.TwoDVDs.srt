@@ -28,51 +28,11 @@ These Foreign-only subtitles ver. 2024-10 were created by <i>ZoowlCZ</i>.
 [English]  One Ring to rule!
 
 7
-01:36:36,157 --> 01:36:39,654
-[Quenya] ♫<i> Et Eärello...</i> ♫
-[English] ♫ Out of the Great Sea... ♫
-
-8
-01:36:40,453 --> 01:36:46,848
-[Quenya] ♫<i> ...Endorenna utúlien. </i>♫
-[English] ♫ ...to Middle-earth I am come. ♫
-
-9
-01:36:49,146 --> 01:36:52,943
-[Quenya] ♫<i> Sinome maruvan... </i>♫
-[English] ♫ In this place I will abide... ♫
-
-10
-01:36:53,843 --> 01:36:59,338
-[Quenya] ♫<i> ...ar Hildinyar... </i>♫
-[English] ♫ ...and my heirs... ♫
-
-11
-01:37:00,437 --> 01:37:08,930
-[Quenya] ♫<i> ...tenn’ Ambar-metta. </i>♫
-[English] ♫ ...unto the World-ending. ♫
-
-12
 01:37:18,323 --> 01:37:19,822
 [Sindarin] <i>Hannon le.</i>
 [English] Thank you.
 
-13
-01:37:30,992 --> 01:37:45,686
-{\an8} [Sindarin] ♫<i> Tinúviel... </i>♫
-{\an8} [English] ♫ Tinúviel... ♫
-
-14
-01:37:45,686 --> 01:37:56,073
-{\an8} [Sindarin] ♫<i> ...elvanui... </i>♫
-{\an8} [English] ♫ ...the elven-fair... ♫
-
-15
-01:37:56,081 --> 01:38:14,577
-{\an8} [Sindarin] ♫<i> ...elleth alfirin edhelhael. </i>♫
-{\an8} [English] ♫ ...immortal maiden elven-wise. ♫
-
-16
+8
 01:46:36,571 --> 01:46:39,569
 [Sindarin] <i>I Aear cân ven na mar.</i>
 [English] The sea calls us to home.

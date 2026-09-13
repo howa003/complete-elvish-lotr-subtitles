@@ -5,12 +5,12 @@ These Foreign-only subtitles ver. 2024-10 were created by <i>ZoowlCZ</i>.
 2
 00:03:34,692 --> 00:03:49,415
 {\an8} [Sindarin] ♫<i> Ú i vethed... </i>♫
-♫ [English]  ♫ Not the end... ♫
+{\an8} [English] ♫ Not the end... ♫
 
 3
 00:03:49,824 --> 00:04:04,972
 {\an8} [Sindarin] ♫<i> ...nâ i onnad. </i>♫
-♫ [English]  ♫ ...it is the beginning. ♫
+{\an8} [English] ♫ ...it is the beginning. ♫
 
 4
 00:04:31,668 --> 00:04:33,550
@@ -70,17 +70,17 @@ It is your path.
 15
 00:05:32,143 --> 00:05:46,991
 {\an8} [Sindarin] ♫<i> Estelio han. </i>♫
-♫ [English]  ♫ Trust this. ♫
+{\an8} [English] ♫ Trust this. ♫
 
 16
 00:05:48,091 --> 00:05:55,491
 {\an8} [Sindarin] ♫<i> Estelio han. </i>♫
-♫ [English]  ♫ Trust this. ♫
+{\an8} [English] ♫ Trust this. ♫
 
 17
 00:05:56,015 --> 00:06:03,924
 {\an8} [Sindarin] ♫<i> Estelio veleth. </i>♫
-♫ [English]  ♫ Trust love. ♫
+{\an8} [English] ♫ Trust love. ♫
 
 18
 00:06:52,018 --> 00:06:54,599

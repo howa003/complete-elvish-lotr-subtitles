@@ -3,311 +3,286 @@
 These Foreign-only subtitles ver. 2024-10 were created by <i>ZoowlCZ</i>.
 
 2
-00:03:34,692 --> 00:03:49,415
-{\an8} [Sindarin] ♫<i> Ú i vethed... </i>♫
-♫ [English]  ♫ Not the end... ♫
-
-3
-00:03:49,824 --> 00:04:04,972
-{\an8} [Sindarin] ♫<i> ...nâ i onnad. </i>♫
-♫ [English]  ♫ ...it is the beginning. ♫
-
-4
 00:04:31,668 --> 00:04:33,550
 [Sindarin] <i>Minlû pedich nin...</i>
 [English] Once you told me...
 
-5
+3
 00:04:35,662 --> 00:04:37,848
 [Sindarin] <i>...i aur hen telitha.</i>
 [English] ...this day will-come.
 
-6
+4
 00:04:38,768 --> 00:04:41,394
 [Sindarin] <i>Ú i vethed... nâ i onnad.</i>
 [English] Not the end... it is the beginning.
 
-7
+5
 00:04:42,268 --> 00:04:44,268
 [Sindarin] <i>Boe bedich go Frodo.</i>
 [English] It is necessary you go with Frodo.
 
-8
+6
 00:04:44,668 --> 00:04:47,268
 [Sindarin] <i>Han bâd lîn.</i>
 It is your path.
 
-9
+7
 00:04:57,268 --> 00:04:59,268
 [Sindarin] <i>Dolen i vâd o nin.</i>
 [English] Hidden the path is from me.
 
-10
+8
 00:05:00,468 --> 00:05:03,268
 [Sindarin] <i>Si peliannen i vâd na dail lîn.</i>
 [English] The way is already spread before your feet.
 
-11
+9
 00:05:04,268 --> 00:05:07,103
 [Sindarin] <i>Si boe ú-dhannathach.</i>
 [English] Now it-is-necessary you-don’t-fall.
 
-12
+10
 00:05:13,668 --> 00:05:16,168
 [Sindarin] <i>Ae ú-esteliach nad...</i>
 [English] If you trust not things...
 
-13
+11
 00:05:16,968 --> 00:05:19,397
 [Sindarin] <i>...estelio han...</i>
 [English] ...trust this...
 
-14
+12
 00:05:19,723 --> 00:05:22,756
 [Sindarin] <i>...estelio ammen.</i>
 [English] ...trust us.
 
-15
-00:05:32,143 --> 00:05:46,991
-{\an8} [Sindarin] ♫<i> Estelio han. </i>♫
-♫ [English]  ♫ Trust this. ♫
-
-16
-00:05:48,091 --> 00:05:55,491
-{\an8} [Sindarin] ♫<i> Estelio han. </i>♫
-♫ [English]  ♫ Trust this. ♫
-
-17
-00:05:56,015 --> 00:06:03,924
-{\an8} [Sindarin] ♫<i> Estelio veleth. </i>♫
-♫ [English]  ♫ Trust love. ♫
-
-18
+13
 00:06:52,018 --> 00:06:54,599
 [Sindarin] <i>Nach gwannatha sin?</i>
 [English] Are you going to leave in such way?
 
-19
+14
 00:06:55,468 --> 00:06:58,986
 [Sindarin] <i>Ma nathach hi gwannathach or minuial archened?</i>
 [English] You would depart after the stars fade - unseen?
 
-20
+15
 00:07:01,392 --> 00:07:02,968
 [Sindarin] <i>Ú-ethelithon.</i>
 [English] I will not return.
 
-21
+16
 00:07:04,168 --> 00:07:06,068
 [Sindarin] <i>Estelio guru lîn ne dagor.</i>
 [English] Trust in your skill in battle.
 
-22
+17
 00:07:06,768 --> 00:07:07,968
 [Sindarin] <i>Ethelithach.</i>
 [English] You will return.
 
-23
+18
 00:07:08,268 --> 00:07:09,768
 [Sindarin] <i> Ú-bedin o gurth ne dagor.</i>
 [English] I don’t speak about death in battle.
 
-24
+19
 00:07:10,068 --> 00:07:12,068
 [Sindarin] <i>O man pedich?</i>
 [English] About what you speak?
 
-25
+20
 00:07:17,668 --> 00:07:21,607
 [Sindarin] <i>Edra le men, men na guil edwen...</i>
 [English] A path is opened for you, a path to another life...
 
-26
+21
 00:07:23,168 --> 00:07:26,868
 [Sindarin] <i>haer o auth a nîr a naeth.</i>
 [English] ...far from war and weeping and woe.
 
-27
+22
 00:21:56,970 --> 00:21:58,970
 [Sindarin] <i>Tollen, i lû.</i>
 [English] Come, it is time.
 
-28
+23
 00:22:00,970 --> 00:22:04,770
 [Sindarin] <i>I chair gwannar na Valannor. Si bado, no círar.</i>
 [English] The ships depart to Valinor. Now go, before they sail.
 
-29
+24
 00:24:39,970 --> 00:24:42,670
 [Sindarin] <i>Ah im, ú-’erin veleth lîn?</i>
 [English] And I, I-have-not love your?
 
-30
+25
 00:24:44,670 --> 00:24:47,070
 [Sindarin] <i>Gerich veleth nîn, ada.</i>
 [English] You-have my love, father.
 
-31
+26
 00:25:37,870 --> 00:25:40,867
 [Sindarin] <i>I amar prestar aen.</i>
 [English] The world is changed.
 
-32
+27
 00:25:41,520 --> 00:25:43,520
 [Sindarin] <i>Han mathon ne nen.</i>
 [English] I feel it in the water.
 
-33
+28
 00:25:43,970 --> 00:25:45,970
 [Sindarin] <i>Han mathon ne chae.</i>
 [English] I feel it in the earth.
 
-34
+29
 00:25:47,870 --> 00:25:51,770
 [Sindarin] <i>A han noston ned ’wilith.</i>
 [English] I smell it in the air.
 
-35
+30
 00:44:48,772 --> 00:44:53,572
 [Sindarin] <i>Mae carnen, Brego, mellon nîn.</i>
 [English] Well done, Brego, my friend.
 
-36
+31
 00:45:28,773 --> 00:45:30,023
 [Sindarin] <i>Le abdollen.</i>
 [English] You’re late.
 
-37
+32
 00:46:02,173 --> 00:46:04,773
 [Sindarin] <i>Hannon le.</i>
 [English] Thank you.
 
-38
+33
 00:53:24,273 --> 00:53:26,273
 [Sindarin] <i>Boe a hyn...</i>
 [English] And they should be...
 
-39
+34
 00:53:26,773 --> 00:53:29,273
 [Sindarin] <i>Neled herain... dan caer menig.</i>
 [English] Three hundred... against ten thousand.
 
-40
+35
 00:53:31,573 --> 00:53:33,773
 [Sindarin] <i>Si, beriathar hyn ammaeg na ned Edoras.</i>
 [English] Here they-will-defend them-selves sharper than at Edoras.
 
-41
+36
 00:53:33,773 --> 00:53:37,273
 [Sindarin] <i>Aragorn, nedin dagor hen ú-’erir ortheri.</i>
 [English] Aragorn, in this battle they can not win.
 
-42
+37
 00:53:38,773 --> 00:53:40,023
 [Sindarin] <i>Natha daged dhaer</i>
 [English] It will be great slaying.
 
-43
+38
 00:58:15,974 --> 00:58:17,974
 [Sindarin] <i>Ú-moe edaved, Legolas</i>
 [English] There is nothing to forgive, Legolas.
 
-44
+39
 00:59:41,774 --> 00:59:44,274
 [Sindarin] <i>Mae govannen, Haldir.</i>
 [English] Well-met, Haldir.
 
-45
+40
 01:01:58,274 --> 01:02:01,274
 [Sindarin] <i>A Eruchîn, ú-dano i faelas a hyn...</i>
 [English] O Children-of-Eru, don’t show mercy to them...
 
-46
+41
 01:02:02,574 --> 01:02:05,574
 [Sindarin] <i>...an uben tanatha le faelas!</i>
 [English] ...for nobody will show you mercy!
 
-47
+42
 01:03:24,775 --> 01:03:26,775
 [Sindarin] <i>Dartho!</i>
 [English] Hold!
 
-48
+43
 01:03:56,275 --> 01:03:58,275
 [Sindarin] <i>Tangado a chadad!</i>
 [English] Prepare to fire!
 
-49
+44
 01:04:05,775 --> 01:04:07,775
 [Sindarin] <i>Faeg i-varv dîn na lanc...</i>
 [English] Their armour is poor below the neck...
 
-50
+45
 01:04:08,275 --> 01:04:10,275
 [Sindarin] <i>...a nu ranc!</i>
 [English] ...and under arm!
 
-51
+46
 01:04:10,525 --> 01:04:12,525
 [Sindarin] <i>Hado i philinn!</i>
 [English] Release the arrows!
 
-52
+47
 01:05:00,275 --> 01:05:01,875
 [Sindarin] <i>Pendraith!</i>
 [English] Ladders!
 
-53
+48
 01:08:22,821 --> 01:08:24,112
 [Sindarin] <i>Na fennas!</i>
 [English] To gateway!
 
-54
+49
 01:08:24,175 --> 01:08:26,675
 [Sindarin] <i>Hado ribed! Hado!</i>
 [English] Hurl to flow! Hurl!
 
-55
+50
 01:09:03,275 --> 01:09:05,275
 [Sindarin] <i>Togo hon dad, Legolas!</i>
 [English] Bring him down, Legolas!
 
-56
+51
 01:09:07,775 --> 01:09:08,775
 [Sindarin] <i>Dago hon!</i>
 [English] Kill him!
 
-57
+52
 01:09:09,275 --> 01:09:10,775
 [Sindarin] <i>Dago hon!</i>
 [English] Kill him!
 
-58
+53
 01:10:46,475 --> 01:10:47,975
 [Sindarin] <i>Hado i philinn!</i>
 [English] Release the arrows!
 
-59
+54
 01:10:50,775 --> 01:10:52,775
 [Sindarin] <i>Herio!</i>
 [English] Charge!
 
-60
+55
 01:13:34,276 --> 01:13:36,276
 [Sindarin] <i>Nan barad!</i>
 [English] To tower!
 
-61
+56
 01:13:40,276 --> 01:13:42,276
 [Sindarin] <i>Nan barad!</i>
 [English] To tower!
 
-62
+57
 01:13:45,276 --> 01:13:48,276
 [Sindarin] <i>Nan barad!</i>
 [English] To tower!
 
-63
+58
 01:28:48,748 --> 01:28:51,012
 [Rohirric] <i>Forð Eorlingas!</i>
 [English] Forth Eorlingas!

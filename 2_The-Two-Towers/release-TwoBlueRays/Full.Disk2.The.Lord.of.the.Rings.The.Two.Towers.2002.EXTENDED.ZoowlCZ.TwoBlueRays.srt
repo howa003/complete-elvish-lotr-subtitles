@@ -176,7 +176,7 @@ Go to sleep.
 43
 00:03:34,692 --> 00:03:49,415
 {\an8} [Sindarin] ♫<i> Ú i vethed... </i>♫
-♫ [English]  ♫ Not the end... ♫
+{\an8} [English] ♫ Not the end... ♫
 
 44
 00:03:36,573 --> 00:03:39,064
@@ -193,7 +193,7 @@ Then it is a good dream.
 47
 00:03:49,824 --> 00:04:04,972
 {\an8} [Sindarin] ♫<i> ...nâ i onnad. </i>♫
-♫ [English]  ♫ ...it is the beginning. ♫
+{\an8} [English] ♫ ...it is the beginning. ♫
 
 48
 00:04:04,901 --> 00:04:06,993
@@ -261,17 +261,17 @@ Arwen...
 61
 00:05:32,143 --> 00:05:46,991
 {\an8} [Sindarin] ♫<i> Estelio han. </i>♫
-♫ [English]  ♫ Trust this. ♫
+{\an8} [English] ♫ Trust this. ♫
 
 62
 00:05:48,091 --> 00:05:55,491
 {\an8} [Sindarin] ♫<i> Estelio han. </i>♫
-♫ [English]  ♫ Trust this. ♫
+{\an8} [English] ♫ Trust this. ♫
 
 63
 00:05:56,015 --> 00:06:03,924
 {\an8} [Sindarin] ♫<i> Estelio veleth. </i>♫
-♫ [English]  ♫ Trust love. ♫
+{\an8} [English] ♫ Trust love. ♫
 
 64
 00:06:01,314 --> 00:06:03,145

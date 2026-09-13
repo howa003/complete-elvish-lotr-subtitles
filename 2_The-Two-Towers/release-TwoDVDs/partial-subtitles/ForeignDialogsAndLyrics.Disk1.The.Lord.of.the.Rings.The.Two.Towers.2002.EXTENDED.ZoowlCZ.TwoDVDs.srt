@@ -30,7 +30,7 @@ supporting ASS tags in .srt files.
 7
 01:25:02,979 --> 01:25:12,179
 {\an8} [Rohirric] ♫<i> Bealocwealm hafað fréone frecan forth onsended. </i>♫
-♫ [English]  ♫ An evil death has set forth the noble warrior. ♫
+{\an8} [English] ♫ An evil death has set forth the noble warrior. ♫
 
 8
 01:25:12,779 --> 01:25:19,179
