@@ -151,7 +151,10 @@ However, if you wanted to help me battle my ADHD and give me some external motiv
 
 
 ## 6) Acknowledgements and credits
-- Huge thanks to [Tenacius-p](https://github.com/Tenacius-p) for retiming the subtitles for the TwoDVD-BluRay release.
+- Thanks to <i>lusiads</i> and <i>Bokutox (Torporr of Outland PVP)</i> for creating the original English subtitles which are used in these complete subtitles.
+- Very special thanks to <i>Gwaith-i-Phethdain</i>, <i>Magpie of A Magpie's Nest and Friends</i>, and <i>Monoverantus</i> for their extraordinary work on deciphering the dialogs and lyrics.
+- Huge thanks to [José Figueredo](https://github.com/Tenacius-p) for retiming the subtitles for the TwoDVD-BluRay release.
+- Thanks also to [TheGloriousLori](https://www.reddit.com/user/TheGloriousLori/) for correcting various typos.
 
 
 
