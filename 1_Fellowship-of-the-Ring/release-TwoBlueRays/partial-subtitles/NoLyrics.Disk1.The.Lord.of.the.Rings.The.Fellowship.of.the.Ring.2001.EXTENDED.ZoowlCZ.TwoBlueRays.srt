@@ -3937,7 +3937,7 @@ The dwarves?
 919
 01:31:28,156 --> 01:31:33,056
 They hide in mountains seeking riches.
-They care not for the troubles of others.
+They care nothing for the troubles of others.
 
 920
 01:31:34,756 --> 01:31:37,556
