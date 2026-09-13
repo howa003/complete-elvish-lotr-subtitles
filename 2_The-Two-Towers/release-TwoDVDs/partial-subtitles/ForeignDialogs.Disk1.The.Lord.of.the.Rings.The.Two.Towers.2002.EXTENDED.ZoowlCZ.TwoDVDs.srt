@@ -1,109 +1,123 @@
 1
-00:36:12,220 --> 00:36:16,220
-These Foreign-only subtitles  were created by <i>ZoowlCZ</i>.
-[English] May they find peace after death.
+00:00:00,000 --> 00:00:04,999
+These Foreign-only subtitles ver. 2024-10 were created by <i>ZoowlCZ</i>.
 
 2
+00:00:05,001 --> 00:00:10,000
+ⓘ Very special thanks to <i>Gwaith-i-Phethdain</i>, <i>Magpie of A Magpie's Nest and Friends</i>, and <i>Monoverantus</i>
+for their extraordinary work on deciphering the dialogs and lyrics.
+
+3
+00:00:10,001 --> 00:00:15,000
+{\an8} ⓘ For correct displaying of these subtitles, use a media player
+supporting ASS tags in .srt files.
+
+4
+00:36:12,220 --> 00:36:16,220
+[Sindarin] <i>Hiro hyn hîdh ab ’wanath.</i>
+[English] May they find peace after death.
+
+5
 00:52:04,507 --> 00:52:06,457
 [Sindarin] <i>Aragorn, nad no ennas!</i>
 [English] A thing to be there!
 
-3
+6
 00:52:13,242 --> 00:52:15,066
 [Sindarin] <i>Man cenich?</i>
 [English] What do you see?
 
-4
+7
 01:25:02,979 --> 01:25:12,179
 {\an8} [Rohirric] ♫<i> Bealocwealm hafað fréone frecan forth onsended. </i>♫
 ♫ [English]  ♫ An evil death has set forth the noble warrior. ♫
 
-5
+8
 01:25:12,779 --> 01:25:19,179
 {\an8} [Rohirric] ♫<i> giedd sculon singan gléomenn sorgiende... </i>♫
 {\an8} [English] ♫ A song shall sing sorrowing minstrels... ♫
 
-6
+9
 01:25:19,879 --> 01:25:27,079
 {\an8} [Rohirric] ♫<i> ...on Meduselde þæt he ma no wære... </i>♫
 {\an8} [English] ♫ ...in Meduseld that he is no more... ♫
 
-7
+10
 01:25:27,779 --> 01:25:35,179
 {\an8} [Rohirric] ♫<i> ...his dryhtne dyrest and mæga deorost. </i>♫
 {\an8} [English] ♫ ...to his lord dearest and kinsmen most belover. ♫
 
-8
+11
 01:25:36,279 --> 01:25:38,879
 {\an8} [Rohirric] ♫<i> Bealo... </i>♫
 {\an8} [English] ♫ An evil death... ♫
 
-9
+12
 01:25:41,741 --> 01:25:43,470
 [Rohirric] <i> Simbelmynë. </i>
 [English] Evermind.
 
-10
+13
 01:27:01,478 --> 01:27:03,778
 [Rohirric] <i>Westu hál...</i>
 [English] Be-thou well...
 
-11
+14
 01:27:05,178 --> 01:27:07,178
 [Rohirric] <i>Ferðu, Théodred, Ferðu.</i>
 [English] Go-thou, Théodred, go-thou.
 
-12
+15
 01:31:01,174 --> 01:31:03,174
 [Rohirric] <i>Fæste.</i>
 [English] Fast.
 
-13
+16
 01:31:04,174 --> 01:31:05,174
 [Rohirric] <i>Stille nú.</i>
 [English] Calm now.
 
-14
+17
 01:31:08,474 --> 01:31:10,074
 [Rohirric] <i>Fæste.</i>
 [English] Fast.
 
-15
+18
 01:31:12,374 --> 01:31:13,574
 [Rohirric] <i>Stille.</i>
 [English] Calm.
 
-16
+19
 01:31:18,174 --> 01:31:19,974
 [Rohirric] <i>Stille.</i>
 [English] Calm.
 
-17
+20
 01:31:22,174 --> 01:31:23,174
 [Rohirric] <i>Stille.</i>
 [English] Calm.
 
-18
+21
 01:31:25,074 --> 01:31:27,474
 [Rohirric] <i>Lac is drefed, gefrægon.</i>
 [English] A battle is stirred up, they heard.
 
-19
+22
 01:31:34,674 --> 01:31:36,251
 [Rohirric] <i>Hwæt nemnað ðe?</i>
 [English] What is your name?
 
-20
+23
 01:31:47,074 --> 01:31:49,274
 [Rohirric] <i>Ðin nama is cynglic.</i>
 [English] Your name is kingly.
 
-21
+24
 01:31:51,474 --> 01:31:53,474
 [Sindarin] <i>Man le trasta, Brego?</i>
 [English] What troubles you, Brego?
 
-22
+25
 01:31:58,574 --> 01:32:00,174
 [Sindarin] <i>Man cenich?</i>
 [English] What did you see?

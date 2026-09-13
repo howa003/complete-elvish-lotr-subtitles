@@ -1,18 +1,18 @@
 1
-00:00:00,000 --> 00:00:05,000
+00:00:00,000 --> 00:00:04,999
 These Foreign-only subtitles ver. 2025-08 were created by <i>ZoowlCZ</i>.
 
 2
 00:00:05,000 --> 00:00:09,999
-ⓘ Very special thanks to <i>Gwaith-i-Phethdain</i> and <i>Magpie of A Magpie's Nest and Friends</i>
+ⓘ Very special thanks to <i>Gwaith-i-Phethdain</i>, <i>Magpie of A Magpie's Nest and Friends</i>, and <i>Monoverantus</i>
 for their extraordinary work on deciphering the dialogs and lyrics.
 
 3
 00:00:10,000 --> 00:00:14,999
-ⓘ Special thanks also to <i>TheGloriousLori</i> and <i>Monoverantus</i>.
+ⓘ Special thanks also to <i>TheGloriousLori</i> and <i>José Figueredo</i>.
 
 4
-00:00:15,023 --> 00:00:20,022
+00:00:15,000 --> 00:00:19,999
 {\an8} ⓘ For correct displaying of these subtitles, use a media player
 supporting ASS tags in .srt files.
 
@@ -528,7 +528,7 @@ supporting ASS tags in .srt files.
 106
 01:53:50,382 --> 01:53:53,236
 {\an8} [Quenya] ♫ <i>Nai túren...</i> ♫
-{\an8} [English] ♫ Be it that wictory... ♫
+{\an8} [English] ♫ Be it that victory... ♫
 
 107
 01:55:14,403 --> 01:55:18,572

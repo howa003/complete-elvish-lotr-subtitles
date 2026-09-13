@@ -1,0 +1,79 @@
+1
+00:00:00,000 --> 00:00:04,999
+These Foreign-only subtitles ver. 2024-10 were created by <i>ZoowlCZ</i>.
+
+2
+00:05:10,280 --> 00:05:13,822
+[Quenya] <i>Aiya Eärendil, Elenion Ancalima!</i>
+[English] Hail Eärendil, Brightest of the Stars!
+
+3
+01:07:59,570 --> 01:08:01,568
+[Black Speech] <i> Kelkum-ishi. </i>
+[English]  In the coldness.
+
+4
+01:12:07,968 --> 01:12:09,967
+[Black Speech] <i> Ash nazg durb! </i>
+[English]  One Ring to rule!
+
+5
+01:12:19,159 --> 01:12:21,157
+[Black Speech] <i> Ash nazg durb! </i>
+[English]  One Ring to rule!
+
+6
+01:12:53,255 --> 01:12:55,254
+[Black Speech] <i> Ash nazg durb! </i>
+[English]  One Ring to rule!
+
+7
+01:36:37,677 --> 01:36:41,174
+[Quenya] ♫<i> Et Eärello...</i> ♫
+[English] ♫ Out of the Great Sea... ♫
+
+8
+01:36:41,973 --> 01:36:48,368
+[Quenya] ♫<i> ...Endorenna utúlien. </i>♫
+[English] ♫ ...to Middle-earth I am come. ♫
+
+9
+01:36:50,666 --> 01:36:54,463
+[Quenya] ♫<i> Sinome maruvan... </i>♫
+[English] ♫ In this place I will abide... ♫
+
+10
+01:36:55,362 --> 01:37:00,858
+[Quenya] ♫<i> ...ar Hildinyar... </i>♫
+[English] ♫ ...and my heirs... ♫
+
+11
+01:37:01,957 --> 01:37:10,450
+[Quenya] ♫<i> ...tenn’ Ambar-metta. </i>♫
+[English] ♫ ...unto the World-ending. ♫
+
+12
+01:37:19,843 --> 01:37:21,341
+[Sindarin] <i>Hannon le.</i>
+[English] Thank you.
+
+13
+01:37:32,511 --> 01:37:47,205
+{\an8} [Sindarin] ♫<i> Tinúviel... </i>♫
+{\an8} [English] ♫ Tinúviel... ♫
+
+14
+01:37:47,205 --> 01:37:57,593
+{\an8} [Sindarin] ♫<i> ...elvanui... </i>♫
+{\an8} [English] ♫ ...the elven-fair... ♫
+
+15
+01:37:57,601 --> 01:38:16,097
+{\an8} [Sindarin] ♫<i> ...elleth alfirin edhelhael. </i>♫
+{\an8} [English] ♫ ...immortal maiden elven-wise. ♫
+
+16
+01:46:38,090 --> 01:46:41,088
+[Sindarin] <i>I Aear cân ven na mar.</i>
+[English] The sea calls us to home.
+

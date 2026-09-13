@@ -1,0 +1,83 @@
+1
+00:00:00,000 --> 00:00:04,999
+These Foreign-only subtitles ver. 2024-10 were created by <i>ZoowlCZ</i>.
+
+2
+00:00:05,000 --> 00:00:09,999
+ⓘ Very special thanks to <i>Gwaith-i-Phethdain</i>, <i>Magpie of A Magpie's Nest and Friends</i>, and <i>Monoverantus</i>
+for their extraordinary work on deciphering the dialogs and lyrics.
+
+3
+00:00:10,000 --> 00:00:14,999
+ⓘ Special thanks also to <i>TheGloriousLori</i> and <i>José Figueredo</i>.
+
+4
+00:00:15,000 --> 00:00:19,999
+{\an8} ⓘ For correct displaying of these subtitles, use a media player
+supporting ASS tags in .srt files.
+
+5
+00:19:52,197 --> 00:19:54,347
+[Rohirric] <i>Westu Aragorn hál.</i>
+[English] Be-thou Aragorn well!
+
+6
+00:40:35,439 --> 00:40:36,439
+[Sindarin] <i>Ada.</i>
+[English] Father.
+
+7
+00:41:23,733 --> 00:41:24,733
+[Sindarin] <i>Ada...</i>
+[English] Father...
+
+8
+01:42:32,438 --> 01:42:34,823
+[Sindarin] <i>Ónen i-Estel Edain.</i>
+[English] I gave hope to Men.
+
+9
+01:42:38,569 --> 01:42:39,669
+[Sindarin] <i>Ú-chebin...</i>
+[English] I have kept...
+
+10
+01:42:41,255 --> 01:42:42,469
+[Sindarin] <i>...Estel anim.</i>
+[English] ...no hope for me.
+
+11
+01:50:50,404 --> 01:50:52,003
+[Black Speech] <i> Katmuda! </i>
+[English]  Death to men!
+
+12
+01:50:53,527 --> 01:50:54,827
+[Black Speech] <i> Katmuda! </i>
+[English]  Death to men!
+
+13
+01:50:54,828 --> 01:50:55,428
+[Black Speech] <i> Gorosh! </i>
+[English]  Louder!
+
+14
+01:50:55,429 --> 01:50:56,729
+[Black Speech] <i> Katmuda! </i>
+[English]  Death to men!
+
+15
+01:50:56,730 --> 01:50:57,230
+[Black Speech] <i> Gorosh! </i>
+[English]  Louder!
+
+16
+01:50:57,231 --> 01:50:58,530
+[Black Speech] <i> Katmuda! </i>
+[English]  Death to men!
+
+17
+01:50:58,531 --> 01:51:00,031
+[Black Speech] <i> Gorosh chadar! </i>
+[English]  Loud enough!
+

@@ -1,5 +1,5 @@
 ﻿1
-00:00:00,000 --> 00:00:05,000
+00:00:00,000 --> 00:00:04,999
 ⓘ These English & Foreign subtitles created by ZoowlCZ (ver. 2025-08) are an expanded version of the English subtitles (6053820) uploaded by lusiads to OpenSubtitles.
 
 2
@@ -293,7 +293,7 @@ suffer so much fear and doubt...
 68
 00:08:04,444 --> 00:08:07,298
 {\an8} [Quenya] ♫ <i>Nai túren...</i> ♫
-{\an8} [English] ♫ Be it that wictory... ♫
+{\an8} [English] ♫ Be it that victory... ♫
 
 69
 00:08:05,752 --> 00:08:07,652

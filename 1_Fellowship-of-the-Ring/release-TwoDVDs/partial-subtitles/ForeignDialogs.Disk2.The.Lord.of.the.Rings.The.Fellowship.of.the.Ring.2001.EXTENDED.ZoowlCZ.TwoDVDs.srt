@@ -1,5 +1,5 @@
 1
-00:00:00,000 --> 00:00:05,000
+00:00:00,000 --> 00:00:04,999
 These Foreign-only subtitles ver. 2025-08 were created by <i>ZoowlCZ</i>.
 
 2
@@ -35,7 +35,7 @@ These Foreign-only subtitles ver. 2025-08 were created by <i>ZoowlCZ</i>.
 8
 00:08:04,444 --> 00:08:07,298
 {\an8} [Quenya] ♫ <i>Nai túren...</i> ♫
-{\an8} [English] ♫ Be it that wictory... ♫
+{\an8} [English] ♫ Be it that victory... ♫
 
 9
 00:09:28,473 --> 00:09:32,642

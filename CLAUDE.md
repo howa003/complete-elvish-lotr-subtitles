@@ -19,6 +19,7 @@ Each movie directory contains one subdirectory per supported release timing, nam
 - `release-ShortPause-<runtime>` — single-file Blu-ray rip, short pause between disk 1 and disk 2 content.
 - `release-LongPause-<runtime>` — single-file Blu-ray rip, long pause between disk 1 and disk 2 content.
 - `release-TwoDVDs` — two-file set (`Full.Disk1...` / `Full.Disk2...`) matching the original DVD extended edition split.
+- `release-TwoBlueRays` — two-file set (`Full.Disk1...` / `Full.Disk2...`) matching the 2021 remastered Blu-ray box set's two-disc split.
 
 Inside each release directory:
 
@@ -29,7 +30,7 @@ Inside each release directory:
   - `ForeignDialogs...srt` — foreign dialogue only, no lyrics.
   - `NoLyrics...srt` — everything except song lyrics.
 
-`resources/` holds reference source material (PDFs used for transcription/translation) and is git-ignored — do not expect it to be tracked or complete.
+`resources/` holds reference source material (PDFs used for transcription/translation) and is tracked in git; do not expect it to be complete.
 
 ## Subtitle content conventions
 
@@ -46,7 +47,7 @@ When editing `.srt` files, preserve the existing conventions found throughout th
 
 A wording, timing, or translation fix to a dialogue/lyric line generally needs to be propagated across:
 1. The `Full...` file of the release it was found in.
-2. The corresponding `Full...` files for the other two release variants (ShortPause/LongPause/TwoDVDs) of the *same movie*, accounting for each variant's own timestamp offsets.
+2. The corresponding `Full...` files for the other release variants (ShortPause/LongPause/TwoDVDs/TwoBlueRays) of the *same movie*, accounting for each variant's own timestamp offsets.
 3. The relevant `partial-subtitles/` derived files for all affected release variants (a foreign-dialogue fix touches `ForeignDialogs`, `ForeignDialogsAndLyrics`, and `NoLyrics`; a lyrics-only fix touches `ForeignDialogsAndLyrics` only, not `ForeignDialogs` or `NoLyrics`).
 
 Check `compatible-releases.txt` in a release directory before adjusting timestamps, to keep changes consistent with the runtime/releases that variant targets.
