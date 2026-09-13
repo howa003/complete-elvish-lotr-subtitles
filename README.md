@@ -84,6 +84,7 @@ My main sources for the transcriptions and translations were:
 - [LotR Score Analysis by Monoverantus](https://www.youtube.com/channel/UCbyg3ujMxvifnRRHFrlCvmg) is a series of video about the LotR Score. These video contain the scenes of the movie with the analysis of the music used in these scenes. These video als ocontain the lyrics used in the individual scenes. These videos were very helful when trying to time some hard-to-hear lyrics to the correct timestamps. However, a few lyrics shown in the videos are incorrect - sometimes entirely incorrect, sometimes some-what correct (i.e., the video shows the whole verse but in the movie, the verse is sung only partially). 
 - Various other resources such as:
   - [The Lord of the Rings - Linguistic Soundtrack Textbook](https://www.scribd.com/document/541086431/THE-LORD-OF-THE-RINGS-LINGUISTIC-SOUNDTRACK-TEXTBOOK),
+  - [alcaeru.weebly.com](https://alcaeru.weebly.com/),
   - [The Lord of the Rings - The Fellowship of the Ring The Complete Recordings - Transcribed for piano / short score](https://alcaeru.weebly.com/uploads/7/8/6/0/786082/fotr_complete_transcription.pdf),
   - [ElfDict](https://www.elfdict.com/w/),
   - various fan website. 
